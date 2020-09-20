@@ -4,31 +4,27 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     </head>
     <script type="text/javascript">
-    function msToTime(s) {
-    var ms = s % 1000;
-    s = (s - ms) / 1000;
-    var secs = s % 60;
-    s = (s - secs) / 60;
-    var mins = s % 60;
-    
-    return mins + ':' + secs + '.' + ms;
-    }
+        function msToTime(s) {
+        var ms = s % 1000;
+        s = (s - ms) / 1000;
+        var secs = s % 60;
+        s = (s - secs) / 60;
+        var mins = s % 60;
+        
+        return mins + ':' + secs + '.' + ms;
+        }
     </script>
     <script type="text/javascript">
-        jQuery(document).ready(function(){
-        if (jQuery) {  
-            // jQuery is loaded  
-            alert("Yeah!");
-        } else {
-            // jQuery is not loaded
-            alert("Doesn't Work");
-        }
-        });
+
     </script>
 <body>
 
 <h1>My First Heading</h1>
-<p>My first paragraph --2</p>
+<script>
+jQuery.getJSON("json/2020_9_18_23_38_PRACTICE.json", function(json) {
+    console.log(json); // this will show the info it in firebug console
+});
+</script>
 
 </body>
 </html>
