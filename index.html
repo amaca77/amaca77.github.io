@@ -69,9 +69,15 @@
                         }
                         else
                         {
-                            if (resumen[pista][pos]["tiempo"] > lap["tiempo"])
+                            if (resumen[pista][pos]["piloto"]==lap["piloto"] 
+                                && resumen[pista][pos]["auto"]==lap["auto"] 
+                                && resumen[pista][pos]["tiempo"] > lap["tiempo"])
+
                                 resumen[pista][pos] = lap;
+                            else
+                                console.log(lap["piloto"] + " | "+ lap["auto"]+ " | "+ lap["tiempo"]);
                         }
+                        
                     }
                         
                     
