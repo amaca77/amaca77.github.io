@@ -21,6 +21,18 @@
 
 
 <script>
+
+    function searchLap(arr, lap)
+    {
+        var j=0;
+        for (j = 0; j < arr.length; j++) {
+            if(arr[j]["piloto"] == lap["piloto"] && arr[j]["auto"] == lap["auto"])
+                return true;
+        }
+        return false;
+    }
+
+
     var files = ["2020_9_18_23_38_PRACTICE"];
     var i;
     var data;
@@ -49,13 +61,9 @@
                     }
                     else
                     {
-                        resumen[pista].push(lap);
-                        /*
-                        if(resumen[pista]["piloto"] item["DriverName"]] > item["BestLap"])
-                            console.log("mejora vuelta");
-                        else
-                            console.log("nueva mejor vuelta");
-                            */
+                        
+                        console.log(searchLap(resumen[pista], lap));
+                        
                     }
 
                 }
