@@ -17,18 +17,20 @@
 
 <body>
 
-<h1>My First Heading 3</h1>
+<h1>My First Heading 4</h1>
 
 
 <script>
     var files = ["2020_9_18_23_38_PRACTICE"];
     var i;
+    var data;
 
     for (i = 0; i < files.length; i++) {
         console.log( files[i] + ".json");
     
         jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
-            console.log(json); // this will show the info it in firebug console
+            console.log(json);
+            data = json; // this will show the info it in firebug console
         });
 
 
