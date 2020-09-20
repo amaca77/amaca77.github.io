@@ -30,11 +30,30 @@
         console.log( files[i] + ".json");
     
         jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
-            console.log(json);
+            console.log("1->" + json);
             data = json; // this will show the info it in firebug console
-            
-            jQuery.each(data["Cars"], function(index, item) {
-                console.log(item["Model"]);
+            pista = data["TrackName"];
+
+            jQuery.each(data["Result"], function(index, item) {
+                if(item["BestLap"] != 999999999)
+                {
+                    var lap = [];
+                    lap[item["DriverName"]] = item["BestLap"];
+
+                    if(resumen[pista] == undefined)
+                    {
+                        resumen.push(lap);
+                    }
+                    else
+                    {
+                        if(resumen[pista][item["DriverName"]] > item["BestLap"])
+                            console.log("mejora vuelta");
+                        else
+                            console.log("nueva mejor vuelta");
+                    }
+
+                }
+               
             });
 
 
