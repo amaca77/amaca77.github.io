@@ -24,6 +24,7 @@
     var files = ["2020_9_18_23_38_PRACTICE"];
     var i;
     var data;
+    var resumen = [];
 
     for (i = 0; i < files.length; i++) {
         console.log( files[i] + ".json");
@@ -31,6 +32,14 @@
         jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
             console.log(json);
             data = json; // this will show the info it in firebug console
+            
+            jQuery.each(data["Cars"], function(index, item) {
+                console.log(item["Model"]);
+            });
+
+
+            //resumen["pista"] = data["TrackName"];
+
         });
 
 
