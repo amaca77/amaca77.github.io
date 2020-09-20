@@ -9,6 +9,60 @@
         var data;
         var resumen = [];
         var pos;
+
+        function run(){
+            for (i = 0; i < files.length; i++) {
+                console.log( files[i] + ".json");
+        
+                jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
+                    //console.log("1->" + json);
+                    data = json; // this will show the info it in firebug console
+                    pista = data["TrackName"];
+
+                    jQuery.each(data["Result"], function(index, item) {
+                        if(item["BestLap"] != 999999999)
+                        {
+                            var lap = [];
+                            lap["piloto"] = item["DriverName"];
+                            lap["auto"] = item["CarModel"];
+                            lap["tiempo"] = item["BestLap"];
+
+                            if(resumen[pista] == undefined)
+                            {
+                                resumen[pista] = [];
+                                resumen[pista].push(lap);
+                            }
+                            else
+                            {
+                                pos = exitsLap(resumen[pista], lap);
+                                if (pos == -1)
+                                {
+                                    resumen[pista].push(lap);
+                                }
+                                else
+                                {
+                                    if (resumen[pista][pos]["piloto"]==lap["piloto"] 
+                                        && resumen[pista][pos]["auto"]==lap["auto"] 
+                                        && resumen[pista][pos]["tiempo"] > lap["tiempo"])
+
+                                        resumen[pista][pos] = lap;
+                                    else
+                                        console.log(lap["piloto"] + " | "+ lap["auto"]+ " | "+ lap["tiempo"]);
+                                }
+                                
+                            }
+                        }
+                    
+                    });
+
+                    var sorted_a = sortByColumn(resumen[pista], "tiempo");
+                    resumen[pista] = sorted_a;
+                });
+
+            }
+            return true;
+        }
+
         function msToTime(s) {
             var ms = s % 1000;
             s = (s - ms) / 1000;
@@ -71,87 +125,30 @@
 
     </script>
 <body>
-<h1>GT4 4</h1>
-<script>
+    <h1>GT4 4</h1>
+    <script>
 
 
-    for (i = 0; i < files.length; i++) {
-        console.log( files[i] + ".json");
-    
-        jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
-            //console.log("1->" + json);
-            data = json; // this will show the info it in firebug console
-            pista = data["TrackName"];
 
-            jQuery.each(data["Result"], function(index, item) {
-                if(item["BestLap"] != 999999999)
-                {
-                    var lap = [];
-                    lap["piloto"] = item["DriverName"];
-                    lap["auto"] = item["CarModel"];
-                    lap["tiempo"] = item["BestLap"];
-
-                    if(resumen[pista] == undefined)
-                    {
-                        resumen[pista] = [];
-                        resumen[pista].push(lap);
-                    }
-                    else
-                    {
-                        pos = exitsLap(resumen[pista], lap);
-                        if (pos == -1)
-                        {
-                            resumen[pista].push(lap);
-                        }
-                        else
-                        {
-                            if (resumen[pista][pos]["piloto"]==lap["piloto"] 
-                                && resumen[pista][pos]["auto"]==lap["auto"] 
-                                && resumen[pista][pos]["tiempo"] > lap["tiempo"])
-
-                                resumen[pista][pos] = lap;
-                            else
-                                console.log(lap["piloto"] + " | "+ lap["auto"]+ " | "+ lap["tiempo"]);
-                        }
-                        
-                    }
-                }
-               
-            });
-
-            //console.log(resumen);
-            var sorted_a = sortByColumn(resumen[pista], "tiempo");
-            //console.log("sorted");
-            resumen[pista] = sorted_a;
-            //console.log(sorted_a);
-
-
-            //resumen["pista"] = data["TrackName"];
-
+        $(document).ready(function(){
+            console.log('ready1');
+            setTimeout(1000);
+            console.log('ready2');
+            print_table();
         });
-    }
+    </script>
 
-    print_table();
-    console.log("ale");
-
-
-    $(document).ready(function(){
-        console.log('ready');
-        print_table();
-    });
-</script>
-
-<table class="wp-list-table widefat fixed striped posts tbl" style="width: 400px;">
-    <thead>
-        <tr>
-            <th scope="col" id="piloto" class="manage-column" style="width: 100px;" >Piloto</th>
-            <th scope="col" id="auto" class="manage-column" style="width: 50px;">Auto</th>
-            <th scope="col" id="tiempo" class="manage-column" style="width: 30px;">Tiempo</th>
-            
-        </tr>
-    </thead>
-    <tbody id="the-list">
-    </tbody>
-</table>
+    <table class="wp-list-table widefat fixed striped posts tbl" style="width: 400px;">
+        <thead>
+            <tr>
+                <th scope="col" id="piloto" class="manage-column" style="width: 100px;" >Piloto</th>
+                <th scope="col" id="auto" class="manage-column" style="width: 50px;">Auto</th>
+                <th scope="col" id="tiempo" class="manage-column" style="width: 30px;">Tiempo</th>
+                
+            </tr>
+        </thead>
+        <tbody id="the-list">
+        </tbody>
+    </table>
 </body>
 </html>
