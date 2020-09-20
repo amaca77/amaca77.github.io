@@ -50,6 +50,29 @@
         return -1;
     }
 
+    function print_table(){
+
+        Object.keys(resumen).forEach(function (key) {
+            var j=0;
+            var title = "<tr class='item-data-percep'><td align='center' colspan='3'><b>"+ key +"</b></td></tr>";
+            jQuery("#the-list").append(title);
+            
+            for (j = 0; j < resumen[key].length; j++) {
+                item = resumen[key][j];
+                console.log("j"+j);
+                var markup = "\
+                        <tr class='item-data-percep'>\
+                            <td>"+ item["piloto"] +"</td>\
+                            <td>" + item["auto"] + "</td>\
+                            <td>" + item["tiempo"] + "</td>\
+                        </tr>";
+
+                jQuery("#the-list").append(markup);
+            }
+        });
+
+    }
+
 
     var files = ["2020_9_18_23_38_PRACTICE" ,"2020_9_19_1_39_PRACTICE","delete"];
     var i;
@@ -105,7 +128,7 @@
             var sorted_a = sortByColumn(resumen[pista], "tiempo");
             //console.log("sorted");
             resumen[pista] = sorted_a;
-            console.log(sorted_a);
+            //console.log(sorted_a);
 
 
             //resumen["pista"] = data["TrackName"];
@@ -116,36 +139,15 @@
     print_table();
 
 
-    function print_table(){
-
-        Object.keys(resumen).forEach(function (key) {
-            var j=0;
-            var title = "<tr class='item-data-percep'><td colspan='3'>"+ key +"</td></tr>";
-            jQuery("#the-list").append(title);
-            
-            for (j = 0; j < resumen[key].length; j++) {
-                item = resumen[key][j];
-                console.log("j"+j);
-                var markup = "\
-                        <tr class='item-data-percep'>\
-                            <td>"+ item["piloto"] +"</td>\
-                            <td>" + item["auto"] + "</td>\
-                            <td>$ " + item["tiempo"] + "</td>\
-                        </tr>";
-
-                jQuery("#the-list").append(markup);
-            }
-        });
-
-    }
+    
 </script>
 
-<table class="wp-list-table widefat fixed striped posts tbl">
+<table class="wp-list-table widefat fixed striped posts tbl" style="width: 400px;">
     <thead>
         <tr>
             <th scope="col" id="piloto" class="manage-column" style="width: 100px;" >Piloto</th>
             <th scope="col" id="auto" class="manage-column" style="width: 50px;">Auto</th>
-            <th scope="col" id="tiempo" class="manage-column" style="width: 20px;">Tiempo</th>
+            <th scope="col" id="tiempo" class="manage-column" style="width: 30px;">Tiempo</th>
             
         </tr>
     </thead>
