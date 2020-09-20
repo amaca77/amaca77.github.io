@@ -30,7 +30,7 @@
         console.log( files[i] + ".json");
     
         jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
-            console.log("1->" + json);
+            //console.log("1->" + json);
             data = json; // this will show the info it in firebug console
             pista = data["TrackName"];
 
@@ -38,7 +38,9 @@
                 if(item["BestLap"] != 999999999)
                 {
                     var lap = [];
-                    lap[item["DriverName"]] = item["BestLap"];
+                    lap["piloto"] = item["DriverName"];
+                    lap["auto"] = item["CarModel"];
+                    lap["tiempo"] = item["BestLap"];
 
                     if(resumen[pista] == undefined)
                     {
@@ -60,16 +62,10 @@
             //resumen["pista"] = data["TrackName"];
 
         });
-
-
-        
     }
 
-    /*
-    jQuery.getJSON("json/.json", function(json) {
-        console.log(json); // this will show the info it in firebug console
-    });
-    */
+    for (i = 0; i < resumen.length; i++) {
+    }
 </script>
 
 </body>
