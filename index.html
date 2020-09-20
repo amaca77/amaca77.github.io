@@ -31,7 +31,7 @@ var filenames=[], foldernames=[];
 
 jQuery(document).ready(function () 
 {
-    $.get(".", function(data) 
+    $.get("json", function(data) 
     {
         $("#fileNames").append(data);
     });
