@@ -132,11 +132,17 @@
 
         $(document).ready(function(){
             console.log('ready11');
-            setTimeout(1000);
-            console.log('ready22');
             
+
             if(run())
+            {
+                setTimeout(2000);
+                console.log('ready22222');
                 print_table();
+            }
+            else
+                consol.log('nooooooo');
+                
         });
     </script>
 
