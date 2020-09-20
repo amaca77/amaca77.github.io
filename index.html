@@ -5,54 +5,69 @@
     </head>
     <script type="text/javascript">
         function msToTime(s) {
-        var ms = s % 1000;
-        s = (s - ms) / 1000;
-        var secs = s % 60;
-        s = (s - secs) / 60;
-        var mins = s % 60;
-        
-        return mins + ':' + secs + '.' + ms;
-        }
-    </script>
-
-<body>
-
-<h1>GT4 2</h1>
-
-
-<script>
-
-    function sortByColumn(a, colIndex){
-
-        a.sort(sortFunction);
-
-        function sortFunction(a, b) {
-            if (a[colIndex] === b[colIndex]) {
-                return 0;
-            }
-            else {
-                return (a[colIndex] < b[colIndex]) ? -1 : 1;
-            }
+            var ms = s % 1000;
+            s = (s - ms) / 1000;
+            var secs = s % 60;
+            s = (s - secs) / 60;
+            var mins = s % 60;
+            
+            return mins + ':' + secs + '.' + ms;
         }
 
-        return a;
-    }
+        function print_table(){
+
+            Object.keys(resumen).forEach(function (key) {
+                var j=0;
+                var title = "<tr class='item-data-percep'><td align='center' colspan='3'><b>"+ key +"</b></td></tr>";
+                jQuery("#the-list").append(title);
+                
+                for (j = 0; j < resumen[key].length; j++) {
+                    item = resumen[key][j];
+                    console.log("j"+j);
+                    var markup = "\
+                            <tr class='item-data-percep'>\
+                                <td>"+ item["piloto"] +"</td>\
+                                <td>" + item["auto"] + "</td>\
+                                <td>" + msToTime(item["tiempo"]) + "</td>\
+                            </tr>";
+
+                    jQuery("#the-list").append(markup);
+                }
+            });
+        }
+
+        function sortByColumn(a, colIndex){
+
+            a.sort(sortFunction);
+
+            function sortFunction(a, b) {
+                if (a[colIndex] === b[colIndex]) {
+                    return 0;
+                }
+                else {
+                    return (a[colIndex] < b[colIndex]) ? -1 : 1;
+                }
+            }
+
+            return a;
+        }
 
 
 
-    function exitsLap(arr, lap)
-    {
+        function exitsLap(arr, lap)
+        {
         var j=0;
         for (j = 0; j < arr.length; j++) {
             if(arr[j]["piloto"] == lap["piloto"] && arr[j]["auto"] == lap["auto"])
                 return j;
         }
         return -1;
-    }
+        }
 
- 
-
-
+    </script>
+<body>
+<h1>GT4 2</h1>
+<script>
     var files = ["2020_9_18_23_38_PRACTICE" ,"2020_9_19_1_39_PRACTICE","2020_9_19_16_39_PRACTICE"];
     var i;
     var data;
@@ -114,43 +129,6 @@
 
         });
     }
-
-    jQuery(window).on('ready', function (e) {
-
-        function print_table(){
-
-            Object.keys(resumen).forEach(function (key) {
-                var j=0;
-                var title = "<tr class='item-data-percep'><td align='center' colspan='3'><b>"+ key +"</b></td></tr>";
-                jQuery("#the-list").append(title);
-                
-                for (j = 0; j < resumen[key].length; j++) {
-                    item = resumen[key][j];
-                    console.log("j"+j);
-                    var markup = "\
-                            <tr class='item-data-percep'>\
-                                <td>"+ item["piloto"] +"</td>\
-                                <td>" + item["auto"] + "</td>\
-                                <td>" + msToTime(item["tiempo"]) + "</td>\
-                            </tr>";
-
-                    jQuery("#the-list").append(markup);
-                }
-            });
-
-        }
-
-        console.log("on ready...");
-
-        print_table();
-        
-    });
-
-
-    
-
-
-    
 </script>
 
 <table class="wp-list-table widefat fixed striped posts tbl" style="width: 400px;">
@@ -167,3 +145,8 @@
 </table>
 </body>
 </html>
+<script>
+    console.log('testt');
+    print_table();
+
+</script>
