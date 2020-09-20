@@ -17,7 +17,7 @@
 
 <body>
 
-<h1>GT4 </h1>
+<h1>GT4 1</h1>
 
 
 <script>
@@ -113,8 +113,10 @@
         });
     }
 
+    print_table();
 
-    jQuery(document).ready(function(){
+
+    function print_table(){
 
         Object.keys(resumen).forEach(function (key) {
             var j=0;
@@ -135,14 +137,14 @@
             }
         });
 
-    });
+    }
 </script>
 
 <table class="wp-list-table widefat fixed striped posts tbl">
     <thead>
         <tr>
-            <th scope="col" id="piloto" class="manage-column" style="width: 50px;" >Piloto</th>
-            <th scope="col" id="auto" class="manage-column" style="width: 30px;">Auto</th>
+            <th scope="col" id="piloto" class="manage-column" style="width: 100px;" >Piloto</th>
+            <th scope="col" id="auto" class="manage-column" style="width: 50px;">Auto</th>
             <th scope="col" id="tiempo" class="manage-column" style="width: 20px;">Tiempo</th>
             
         </tr>
