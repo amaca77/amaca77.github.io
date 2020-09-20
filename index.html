@@ -64,7 +64,7 @@
                         <tr class='item-data-percep'>\
                             <td>"+ item["piloto"] +"</td>\
                             <td>" + item["auto"] + "</td>\
-                            <td>" + item["tiempo"] + "</td>\
+                            <td>" + msToTime(item["tiempo"]) + "</td>\
                         </tr>";
 
                 jQuery("#the-list").append(markup);
