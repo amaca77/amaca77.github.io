@@ -17,7 +17,7 @@
 
 <body>
 
-<h1>My First Heading 6</h1>
+<h1>My First Heading 7</h1>
 
 
 <script>
@@ -44,11 +44,11 @@
 
                     if(resumen[pista] == undefined)
                     {
-                        resumen[pista].push(lap);
+                        resumen[pista] = lap;
                     }
                     else
                     {
-                        if(resumen[pista][item["DriverName"]] > item["BestLap"])
+                        if(resumen[pista]["piloto"] item["DriverName"]] > item["BestLap"])
                             console.log("mejora vuelta");
                         else
                             console.log("nueva mejor vuelta");
