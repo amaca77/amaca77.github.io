@@ -113,17 +113,40 @@
         });
     }
 
-    Object.keys(resumen).forEach(function (key) {
-        document.writeln("-------" + key + "-------<br>");
-        console.log("writing");
-        var j=0;
-        for (j = 0; j < resumen[key].length; j++) {
-            item = resumen[key][j];
-            document.writeln(item["piloto"] + " \t "+ item["auto"]+ " \t "+ item["tiempo"] + "<br>");
-        }
-    });
+
+    jQuery(document).ready(function(){
+
+        Object.keys(resumen).forEach(function (key) {
+            document.writeln("-------" + key + "-------<br>");
+            console.log("writing");
+            var j=0;
+            for (j = 0; j < resumen[key].length; j++) {
+                item = resumen[key][j];
+                var markup = "\
+                        <tr class='item-data-percep'>\
+                            <td>"+ item["piloto"] +"</td>\
+                            <td>" + item["auto"] + "</td>\
+                            <td>$ " + item["tiempo"] + "</td>\
+                        </tr>";
+
+                jQuery("#the-list").append(markup);
+            }
+        });
+
+    }
 </script>
 
-
+<table class="wp-list-table widefat fixed striped posts tbl">
+    <thead>
+        <tr>
+            <th scope="col" id="piloto" class="manage-column" style="width: 50px;" >Piloto</th>
+            <th scope="col" id="auto" class="manage-column" style="width: 30px;">Auto</th>
+            <th scope="col" id="tiempo" class="manage-column" style="width: 20px;">Tiempo</th>
+            
+        </tr>
+    </thead>
+    <tbody id="the-list">
+    </tbody>
+</table>
 </body>
 </html>
