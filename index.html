@@ -24,6 +24,23 @@
 jQuery.getJSON("json/2020_9_18_23_38_PRACTICE.json", function(json) {
     console.log(json); // this will show the info it in firebug console
 });
+
+var filenames=[], foldernames=[];
+
+jQuery.get("json",function(response){
+    document.write(response);
+    getNames();
+});
+
+function getNames()
+{
+    var files = document.querySelectorAll("a.icon.file");
+    var folders = document.querySelectorAll("a.icon.dir");
+    files.forEach(function(item){filenames.push(item.textContent)})
+    folders.forEach(function(item){foldernames.push(item.textContent.slice(0,-1))})
+    console.log(filenames);
+    console.log(foldernames);
+}
 </script>
 
 </body>
