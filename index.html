@@ -23,8 +23,16 @@
 <script>
     var files = ["2020_9_18_23_38_PRACTICE"];
     var i;
+    var ;
     for (i = 0; i < files.length; i++) {
         console.log( files[i] + ".json");
+    
+        jQuery.getJSON(files[i] + ".json", function(json) {
+            console.log(json); // this will show the info it in firebug console
+        });
+
+
+        
     }
 
     /*
