@@ -50,28 +50,7 @@
         return -1;
     }
 
-    function print_table(){
-
-        Object.keys(resumen).forEach(function (key) {
-            var j=0;
-            var title = "<tr class='item-data-percep'><td align='center' colspan='3'><b>"+ key +"</b></td></tr>";
-            jQuery("#the-list").append(title);
-            
-            for (j = 0; j < resumen[key].length; j++) {
-                item = resumen[key][j];
-                console.log("j"+j);
-                var markup = "\
-                        <tr class='item-data-percep'>\
-                            <td>"+ item["piloto"] +"</td>\
-                            <td>" + item["auto"] + "</td>\
-                            <td>" + msToTime(item["tiempo"]) + "</td>\
-                        </tr>";
-
-                jQuery("#the-list").append(markup);
-            }
-        });
-
-    }
+ 
 
 
     var files = ["2020_9_18_23_38_PRACTICE" ,"2020_9_19_1_39_PRACTICE","2020_9_19_16_39_PRACTICE"];
@@ -136,7 +115,7 @@
         });
     }
 
-    jQuery(window).on('load', function (e) {
+    jQuery(window).on('ready', function (e) {
 
         function print_table(){
 
@@ -159,10 +138,12 @@
                 }
             });
 
-            }
+        }
 
-        console.log("onload...");
+        console.log("on ready...");
+
         print_table();
+        
     });
 
 
