@@ -117,11 +117,12 @@
     jQuery(document).ready(function(){
 
         Object.keys(resumen).forEach(function (key) {
-            document.writeln("-------" + key + "-------<br>");
+            
             console.log("writing");
             var j=0;
             for (j = 0; j < resumen[key].length; j++) {
                 item = resumen[key][j];
+                console.log("j"+j);
                 var markup = "\
                         <tr class='item-data-percep'>\
                             <td>"+ item["piloto"] +"</td>\
