@@ -20,6 +20,8 @@
 <body>
 
 <h1>My First Heading1</h1>
+<div id='fileNames'></div>
+
 <script>
 jQuery.getJSON("json/2020_9_18_23_38_PRACTICE.json", function(json) {
     console.log(json); // this will show the info it in firebug console
@@ -27,6 +29,16 @@ jQuery.getJSON("json/2020_9_18_23_38_PRACTICE.json", function(json) {
 
 var filenames=[], foldernames=[];
 
+jQuery(document).ready(function () 
+{
+    $.get(".", function(data) 
+    {
+        $("#fileNames").append(data);
+    });
+})
+
+
+/*
 jQuery.get("json",function(response){
     document.write(response);
     getNames();
@@ -41,6 +53,7 @@ function getNames()
     console.log(filenames);
     console.log(foldernames);
 }
+*/
 </script>
 
 </body>
