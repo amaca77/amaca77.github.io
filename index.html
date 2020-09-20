@@ -27,7 +27,7 @@
     for (i = 0; i < files.length; i++) {
         console.log( files[i] + ".json");
     
-        jQuery.getJSON(files[i] + ".json", function(json) {
+        jQuery.getJSON("json/"+ files[i] + ".json", function(json) {
             console.log(json); // this will show the info it in firebug console
         });
 
