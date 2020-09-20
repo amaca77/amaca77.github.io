@@ -136,10 +136,11 @@
         });
     }
 
-    jQuery(window).load(function() {
-        console.log("onload");
+    jQuery(window).on('load', function (e) {
+        console.log("onload...");
         print_table();
     });
+
 
     
 
