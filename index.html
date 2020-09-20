@@ -117,9 +117,10 @@
     jQuery(document).ready(function(){
 
         Object.keys(resumen).forEach(function (key) {
-            
-            console.log("writing");
             var j=0;
+            var title = "<tr class='item-data-percep'><td colspan='3'>"+ key +"</td></tr>";
+            jQuery("#the-list").append(title);
+            
             for (j = 0; j < resumen[key].length; j++) {
                 item = resumen[key][j];
                 console.log("j"+j);
