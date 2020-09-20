@@ -30,7 +30,7 @@ jQuery.getJSON("json/2020_9_18_23_38_PRACTICE.json", function(json) {
 
     var fileNames = new Array();
     $.ajax({
-      url: "/test/",
+      url: "/json/",
       success: function(data){
          $(data).find("td > a").each(function(){
             if(openFile($(this).attr("href"))){
