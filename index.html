@@ -17,12 +17,12 @@
 
 <body>
 
-<h1>My First Heading 2</h1>
+<h1>My First Heading 3</h1>
 
 
 <script>
 
-    function searchLap(arr, lap)
+    function exitsLap(arr, lap)
     {
         var j=0;
         for (j = 0; j < arr.length; j++) {
@@ -61,10 +61,13 @@
                     }
                     else
                     {
-                        
-                        console.log(searchLap(resumen[pista], lap));
-                        
+                        if (!exitsLap(resumen[pista], lap))
+                        {
+                            resumen[pista].push(lap);
+                        }
                     }
+                        
+                    
 
                 }
                
