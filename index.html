@@ -17,7 +17,7 @@
 
 <body>
 
-<h1>Heading 1</h1>
+<h1>Heading 2   </h1>
 
 
 <script>
@@ -51,7 +51,7 @@
     }
 
 
-    var files = ["2020_9_18_23_38_PRACTICE" ,"2020_9_19_1_39_PRACTICE"];
+    var files = ["2020_9_18_23_38_PRACTICE" ,"2020_9_19_1_39_PRACTICE","delete"];
     var i;
     var data;
     var resumen = [];
@@ -101,9 +101,10 @@
                
             });
 
-            console.log(resumen);
+            //console.log(resumen);
             var sorted_a = sortByColumn(resumen[pista], "tiempo");
-            console.log("sorted");
+            //console.log("sorted");
+            resumen[pista] = sorted_a;
             console.log(sorted_a);
 
 
@@ -113,6 +114,7 @@
     }
 
     for (i = 0; i < resumen.length; i++) {
+
     }
 </script>
 
