@@ -1,9 +1,33 @@
 <!DOCTYPE html>
 <html>
+    <head>
+    </head>
+    <script language="javascript">
+    function msToTime(s) {
+    var ms = s % 1000;
+    s = (s - ms) / 1000;
+    var secs = s % 60;
+    s = (s - secs) / 60;
+    var mins = s % 60;
+    
+    return mins + ':' + secs + '.' + ms;
+    }
+    </script>
+    <script type="text/javascript">
+        jQuery(document).ready(function(){
+        if (jQuery) {  
+            // jQuery is loaded  
+            alert("Yeah!");
+        } else {
+            // jQuery is not loaded
+            alert("Doesn't Work");
+        }
+        });
+    </script>
 <body>
 
 <h1>My First Heading</h1>
-<p>My first paragraph ---</p>
+<p>My first paragraph --1</p>
 
 </body>
 </html>
