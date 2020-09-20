@@ -22,6 +22,24 @@
 
 <script>
 
+    function sortByColumn(a, colIndex){
+
+        a.sort(sortFunction);
+
+        function sortFunction(a, b) {
+            if (a[colIndex] === b[colIndex]) {
+                return 0;
+            }
+            else {
+                return (a[colIndex] < b[colIndex]) ? -1 : 1;
+            }
+        }
+
+        return a;
+    }
+
+var sorted_a = sortByColumn(a, 2);
+
     function exitsLap(arr, lap)
     {
         var j=0;
@@ -33,7 +51,7 @@
     }
 
 
-    var files = ["2020_9_18_23_38_PRACTICE","2020_9_19_1_39_PRACTICE"];
+    var files = ["2020_9_18_23_38_PRACTICE"]; /*,"2020_9_19_1_39_PRACTICE"];*/
     var i;
     var data;
     var resumen = [];
@@ -84,6 +102,9 @@
             });
 
             console.log(resumen);
+            var sorted_a = sortByColumn(resumen[pista], "tiempo");
+            console.log("sorted");
+            console.log(sorted_a);
 
 
             //resumen["pista"] = data["TrackName"];
