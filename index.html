@@ -113,10 +113,16 @@
         });
     }
 
-    for (i = 0; i < resumen.length; i++) {
-
-    }
+    Object.keys(resumen).forEach(function (key) {
+        document.writeln("-------" + key + "-------<br>");
+        var j=0;
+        for (j = 0; j < resumen[key].length; j++) {
+            item = resumen[key][j];
+            document.writeln(item["piloto"] + " \t "+ item["auto"]+ " \t "+ item["tiempo"]);
+        }
+    });
 </script>
+
 
 </body>
 </html>
