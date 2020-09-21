@@ -82,10 +82,10 @@
                 jQuery("#the-list").append(title);
                 
                 for (j = 0; j < resumen[key].length; j++) {
+                    item = resumen[key][j];
                     if(j==0)
                         best = item["tiempo"];
-                    item = resumen[key][j];
-                    console.log("j"+j);
+                    //console.log("j"+j);
                     var markup = "\
                             <tr class='item-data-percep'>\
                                 <td>"+ item["piloto"] +"</td>\
