@@ -74,13 +74,16 @@
         }
 
         function print_table(){
+            var best = 0;
 
             Object.keys(resumen).forEach(function (key) {
                 var j=0;
-                var title = "<tr class='item-data-percep'><td align='center' colspan='3'><b>"+ key +"</b></td></tr>";
+                var title = "<tr class='item-data-percep'><td align='center' colspan='4'><b>"+ key +"</b></td></tr>";
                 jQuery("#the-list").append(title);
                 
                 for (j = 0; j < resumen[key].length; j++) {
+                    if(j==0)
+                        best = item["tiempo"];
                     item = resumen[key][j];
                     console.log("j"+j);
                     var markup = "\
@@ -88,6 +91,7 @@
                                 <td>"+ item["piloto"] +"</td>\
                                 <td>" + item["auto"] + "</td>\
                                 <td>" + msToTime(item["tiempo"]) + "</td>\
+                                <td>" + msToTime(best - item["tiempo"]) + "</td>\
                             </tr>";
 
                     jQuery("#the-list").append(markup);
@@ -132,28 +136,25 @@
 
         $(document).ready(function(){
             console.log('ready1');
-            
-
             if(run())
             {
                 
                 console.log('ready2');
-                setTimeout(print_table, 5000);
+                setTimeout(print_table, 2000);
                 console.log('ready3');
                 
             }
-            else
-                consol.log('nooooooo');
                 
         });
     </script>
 
-    <table class="wp-list-table widefat fixed striped posts tbl" style="width: 400px;">
+    <table class="tbl" style="width: 500px;">
         <thead>
             <tr>
                 <th scope="col" id="piloto" class="manage-column" style="width: 100px;" >Piloto</th>
                 <th scope="col" id="auto" class="manage-column" style="width: 50px;">Auto</th>
                 <th scope="col" id="tiempo" class="manage-column" style="width: 30px;">Tiempo</th>
+                <th scope="col" id="dif" class="manage-column" style="width: 20px;">Dif</th>
                 
             </tr>
         </thead>
