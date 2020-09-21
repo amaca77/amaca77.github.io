@@ -73,6 +73,16 @@
             return mins + ':' + secs + '.' + ms;
         }
 
+        function msToTimeDif(s) {
+            var ms = s % 1000;
+            s = (s - ms) / 1000;
+            var secs = s % 60;
+            s = (s - secs) / 60;
+            var mins = s % 60;
+            
+            return secs + '.' + ms;
+        }
+
         function print_table(){
             var best = 0;
 
@@ -91,7 +101,7 @@
                                 <td>"+ item["piloto"] +"</td>\
                                 <td>" + item["auto"] + "</td>\
                                 <td>" + msToTime(item["tiempo"]) + "</td>\
-                                <td>+ " + msToTime(item["tiempo"]-best) + "</td>\
+                                <td>+ " + msToTimeDif(item["tiempo"]-best) + "</td>\
                             </tr>";
 
                     jQuery("#the-list").append(markup);
