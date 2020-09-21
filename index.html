@@ -91,7 +91,7 @@
                                 <td>"+ item["piloto"] +"</td>\
                                 <td>" + item["auto"] + "</td>\
                                 <td>" + msToTime(item["tiempo"]) + "</td>\
-                                <td>+ " + msToTime(best - item["tiempo"]) + "</td>\
+                                <td>+ " + msToTime(item["tiempo"]-best) + "</td>\
                             </tr>";
 
                     jQuery("#the-list").append(markup);
