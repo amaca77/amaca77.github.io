@@ -1,0 +1,1088 @@
+{
+	"TrackName": "monza",
+	"TrackConfig": "",
+	"Type": "PRACTICE",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_audi_r8",
+			"Skin": "13_marcweinand",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_audi_r8",
+			"Skin": "13_marcweinand",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_bmw_m4",
+			"Skin": "2020 Adrenalin Motorsport #1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_bmw_m4",
+			"Skin": "2020 Adrenalin Motorsport #1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_camaro",
+			"Skin": "2019_EuroGT4_69_V8_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_camaro",
+			"Skin": "white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ford_mustang",
+			"Skin": "volt_racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ford_mustang",
+			"Skin": "kohr_motorsport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mclaren_570s",
+			"Skin": "08_pearl_white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mclaren_570s",
+			"Skin": "BGT20_20_Balfe",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mercedes_amg",
+			"Skin": "#46_hpracing_dtm",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mercedes_amg",
+			"Skin": "white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_toyota_supra",
+			"Skin": "1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_toyota_supra",
+			"Skin": "90_gazoo_racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_porsche_cayman_718",
+			"Skin": "Aimpoint_2020",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_porsche_cayman_718",
+			"Skin": "white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_panoz_avezzano",
+			"Skin": "for_the_fans",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_panoz_avezzano",
+			"Skin": "50_panoz_avezzano",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_saleen_s1",
+			"Skin": "77_guerilla_mods",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 19,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_saleen_s1",
+			"Skin": "saleen",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ktm_xbow",
+			"Skin": "8_mantella_autosport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 21,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ktm_xbow",
+			"Skin": "black",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 22,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_toyota_supra",
+			"Skin": "90_gazoo_racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 23,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_bmw_m4",
+			"Skin": "2020 Adrenalin Motorsport #1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"BestLap": 121403,
+			"TotalTime": 8646856,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"BestLap": 122265,
+			"TotalTime": 9907790,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 12,
+			"CarModel": "gt4_toyota_supra",
+			"BestLap": 122638,
+			"TotalTime": 7450049,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 3,
+			"CarModel": "gt4_bmw_m4",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 1,
+			"CarModel": "gt4_audi_r8",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 5,
+			"CarModel": "gt4_camaro",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 6,
+			"CarModel": "gt4_ford_mustang",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 7,
+			"CarModel": "gt4_ford_mustang",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 8,
+			"CarModel": "gt4_mclaren_570s",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 9,
+			"CarModel": "gt4_mclaren_570s",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 11,
+			"CarModel": "gt4_mercedes_amg",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 13,
+			"CarModel": "gt4_toyota_supra",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 14,
+			"CarModel": "gt4_porsche_cayman_718",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 15,
+			"CarModel": "gt4_porsche_cayman_718",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 16,
+			"CarModel": "gt4_panoz_avezzano",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 17,
+			"CarModel": "gt4_panoz_avezzano",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 19,
+			"CarModel": "gt4_saleen_s1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 2,
+			"CarModel": "gt4_bmw_m4",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 21,
+			"CarModel": "gt4_ktm_xbow",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 22,
+			"CarModel": "gt4_toyota_supra",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 23,
+			"CarModel": "gt4_bmw_m4",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 12,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 7206327,
+			"LapTime": 206097,
+			"Sectors": [
+				125448,
+				40941,
+				39708
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 12,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 7329446,
+			"LapTime": 123120,
+			"Sectors": [
+				44226,
+				39716,
+				39178
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 12,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 7452082,
+			"LapTime": 122638,
+			"Sectors": [
+				44131,
+				39379,
+				39128
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 7759599,
+			"LapTime": 214358,
+			"Sectors": [
+				124619,
+				50733,
+				39006
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 7893982,
+			"LapTime": 134386,
+			"Sectors": [
+				44129,
+				51238,
+				39019
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 8017148,
+			"LapTime": 123170,
+			"Sectors": [
+				44196,
+				40112,
+				38862
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 8146277,
+			"LapTime": 129085,
+			"Sectors": [
+				43234,
+				46867,
+				38984
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 8276922,
+			"LapTime": 130694,
+			"Sectors": [
+				43232,
+				41531,
+				45931
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 8405144,
+			"LapTime": 128225,
+			"Sectors": [
+				43490,
+				46215,
+				38520
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 8527488,
+			"LapTime": 122348,
+			"Sectors": [
+				43392,
+				39860,
+				39096
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"Timestamp": 8648887,
+			"LapTime": 121403,
+			"Sectors": [
+				43455,
+				39222,
+				38726
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"Timestamp": 9242648,
+			"LapTime": 233254,
+			"Sectors": [
+				86306,
+				98388,
+				48560
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"Timestamp": 9390626,
+			"LapTime": 147983,
+			"Sectors": [
+				43899,
+				52884,
+				51200
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"Timestamp": 9525814,
+			"LapTime": 135192,
+			"Sectors": [
+				43761,
+				39932,
+				51499
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"Timestamp": 9651778,
+			"LapTime": 125964,
+			"Sectors": [
+				43307,
+				44600,
+				38057
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"Timestamp": 9787559,
+			"LapTime": 135783,
+			"Sectors": [
+				43901,
+				40536,
+				51346
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"Timestamp": 9909822,
+			"LapTime": 122265,
+			"Sectors": [
+				43415,
+				40933,
+				37917
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 32.644283,
+			"WorldPosition": {
+				"X": 986.5572,
+				"Y": -2.8277829,
+				"Z": -927.15717
+			},
+			"RelPosition": {
+				"X": -0.38648307,
+				"Y": -0.31612092,
+				"Z": 2.4723306
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 52.460884,
+			"WorldPosition": {
+				"X": 973.7881,
+				"Y": -1.560446,
+				"Z": -1268.0029
+			},
+			"RelPosition": {
+				"X": -0.8990551,
+				"Y": -0.32784277,
+				"Z": 2.0002444
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 36.244705,
+			"WorldPosition": {
+				"X": 105.81808,
+				"Y": -4.8908877,
+				"Z": -145.19379
+			},
+			"RelPosition": {
+				"X": 0.97540337,
+				"Y": -0.31312555,
+				"Z": 2.0080628
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 2.025534,
+			"WorldPosition": {
+				"X": 105.50116,
+				"Y": -3.7703192,
+				"Z": -139.32654
+			},
+			"RelPosition": {
+				"X": 0.782659,
+				"Y": 0.8952028,
+				"Z": -2.2983286
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 76.46619,
+			"WorldPosition": {
+				"X": 970.82996,
+				"Y": -1.5423559,
+				"Z": -1268.9745
+			},
+			"RelPosition": {
+				"X": -0.9407178,
+				"Y": -0.3218792,
+				"Z": 1.9920294
+			}
+		}
+	]
+}
