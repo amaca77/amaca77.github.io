@@ -1,0 +1,1211 @@
+{
+	"TrackName": "monza",
+	"TrackConfig": "",
+	"Type": "PRACTICE",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_audi_r8",
+			"Skin": "13_marcweinand",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_audi_r8",
+			"Skin": "13_marcweinand",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_bmw_m4",
+			"Skin": "2020 Adrenalin Motorsport #1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_bmw_m4",
+			"Skin": "2020 Adrenalin Motorsport #1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_camaro",
+			"Skin": "2019_EuroGT4_69_V8_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_camaro",
+			"Skin": "white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ford_mustang",
+			"Skin": "volt_racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ford_mustang",
+			"Skin": "kohr_motorsport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mclaren_570s",
+			"Skin": "08_pearl_white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mclaren_570s",
+			"Skin": "BGT20_20_Balfe",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mercedes_amg",
+			"Skin": "#46_hpracing_dtm",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_mercedes_amg",
+			"Skin": "white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_toyota_supra",
+			"Skin": "1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_toyota_supra",
+			"Skin": "90_gazoo_racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_porsche_cayman_718",
+			"Skin": "Aimpoint_2020",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_porsche_cayman_718",
+			"Skin": "white",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_panoz_avezzano",
+			"Skin": "for_the_fans",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_panoz_avezzano",
+			"Skin": "50_panoz_avezzano",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_saleen_s1",
+			"Skin": "77_guerilla_mods",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 19,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_saleen_s1",
+			"Skin": "saleen",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 20,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ktm_xbow",
+			"Skin": "8_mantella_autosport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 21,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_ktm_xbow",
+			"Skin": "black",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 22,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_toyota_supra",
+			"Skin": "90_gazoo_racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 23,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "gt4_bmw_m4",
+			"Skin": "2020 Adrenalin Motorsport #1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"BestLap": 121206,
+			"TotalTime": 4217204,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 13,
+			"CarModel": "gt4_toyota_supra",
+			"BestLap": 121712,
+			"TotalTime": 3099879,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"BestLap": 121725,
+			"TotalTime": 5327338,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"BestLap": 121953,
+			"TotalTime": 4774998,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 14,
+			"CarModel": "gt4_porsche_cayman_718",
+			"BestLap": 122157,
+			"TotalTime": 5268504,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 3,
+			"CarModel": "gt4_bmw_m4",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 12,
+			"CarModel": "gt4_toyota_supra",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 7,
+			"CarModel": "gt4_ford_mustang",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 8,
+			"CarModel": "gt4_mclaren_570s",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 9,
+			"CarModel": "gt4_mclaren_570s",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 6,
+			"CarModel": "gt4_ford_mustang",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 11,
+			"CarModel": "gt4_mercedes_amg",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 5,
+			"CarModel": "gt4_camaro",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 1,
+			"CarModel": "gt4_audi_r8",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 2,
+			"CarModel": "gt4_bmw_m4",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 15,
+			"CarModel": "gt4_porsche_cayman_718",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 16,
+			"CarModel": "gt4_panoz_avezzano",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 17,
+			"CarModel": "gt4_panoz_avezzano",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 18,
+			"CarModel": "gt4_saleen_s1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 19,
+			"CarModel": "gt4_saleen_s1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 20,
+			"CarModel": "gt4_ktm_xbow",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 21,
+			"CarModel": "gt4_ktm_xbow",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 22,
+			"CarModel": "gt4_toyota_supra",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 23,
+			"CarModel": "gt4_bmw_m4",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 13,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 89616115,
+			"LapTime": 162793,
+			"Sectors": [
+				84385,
+				39910,
+				38498
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 13,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 89738146,
+			"LapTime": 122032,
+			"Sectors": [
+				43647,
+				39636,
+				38749
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 13,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 89860711,
+			"LapTime": 122392,
+			"Sectors": [
+				43376,
+				40069,
+				38947
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 13,
+			"CarModel": "gt4_toyota_supra",
+			"Timestamp": 89982242,
+			"LapTime": 121712,
+			"Sectors": [
+				43439,
+				39578,
+				38695
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90231652,
+			"LapTime": 156479,
+			"Sectors": [
+				77797,
+				39442,
+				39240
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90353615,
+			"LapTime": 121966,
+			"Sectors": [
+				43598,
+				39497,
+				38871
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90483903,
+			"LapTime": 130290,
+			"Sectors": [
+				42675,
+				49185,
+				38430
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90609722,
+			"LapTime": 125820,
+			"Sectors": [
+				44018,
+				42170,
+				39632
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90732965,
+			"LapTime": 123246,
+			"Sectors": [
+				43793,
+				39943,
+				39510
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90856602,
+			"LapTime": 123641,
+			"Sectors": [
+				43456,
+				40230,
+				39955
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 90978362,
+			"LapTime": 121763,
+			"Sectors": [
+				43194,
+				39770,
+				38799
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"Timestamp": 90982602,
+			"LapTime": 150850,
+			"Sectors": [
+				69508,
+				40127,
+				41215
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 4,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 91099566,
+			"LapTime": 121206,
+			"Sectors": [
+				43383,
+				39285,
+				38538
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"Timestamp": 91167346,
+			"LapTime": 184744,
+			"Sectors": [
+				105881,
+				40073,
+				38790
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"Timestamp": 91293505,
+			"LapTime": 126159,
+			"Sectors": [
+				45123,
+				41174,
+				39862
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"Timestamp": 91414525,
+			"LapTime": 121022,
+			"Sectors": [
+				43407,
+				38636,
+				38979
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"Timestamp": 91535414,
+			"LapTime": 120890,
+			"Sectors": [
+				43018,
+				39042,
+				38830
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"Timestamp": 91597520,
+			"LapTime": 147759,
+			"Sectors": [
+				68122,
+				40172,
+				39465
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 10,
+			"CarModel": "gt4_mercedes_amg",
+			"Timestamp": 91657366,
+			"LapTime": 121953,
+			"Sectors": [
+				43567,
+				39784,
+				38602
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"Timestamp": 91720206,
+			"LapTime": 122688,
+			"Sectors": [
+				44378,
+				39610,
+				38700
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"Timestamp": 91843164,
+			"LapTime": 122894,
+			"Sectors": [
+				44082,
+				39798,
+				39014
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 14,
+			"CarModel": "gt4_porsche_cayman_718",
+			"Timestamp": 91905859,
+			"LapTime": 138430,
+			"Sectors": [
+				60143,
+				39295,
+				38992
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"Timestamp": 91965402,
+			"LapTime": 122308,
+			"Sectors": [
+				43967,
+				39790,
+				38551
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 14,
+			"CarModel": "gt4_porsche_cayman_718",
+			"Timestamp": 92028714,
+			"LapTime": 122856,
+			"Sectors": [
+				44016,
+				39883,
+				38957
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"Timestamp": 92087976,
+			"LapTime": 122577,
+			"Sectors": [
+				43664,
+				39474,
+				39439
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 14,
+			"CarModel": "gt4_porsche_cayman_718",
+			"Timestamp": 92150872,
+			"LapTime": 122157,
+			"Sectors": [
+				44262,
+				39069,
+				38826
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 0,
+			"CarModel": "gt4_audi_r8",
+			"Timestamp": 92209701,
+			"LapTime": 121725,
+			"Sectors": [
+				43604,
+				39538,
+				38583
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 5,
+			"CarModel": "gt4_camaro",
+			"Timestamp": 92554649,
+			"LapTime": 164606,
+			"Sectors": [
+				81735,
+				44315,
+				38556
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "GT4",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 163.64905,
+			"WorldPosition": {
+				"X": 600.59314,
+				"Y": -3.2756114,
+				"Z": -682.1626
+			},
+			"RelPosition": {
+				"X": -0.83016634,
+				"Y": 0.20064498,
+				"Z": 1.8009024
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 71.39339,
+			"WorldPosition": {
+				"X": 561.8139,
+				"Y": -4.899628,
+				"Z": -631.8623
+			},
+			"RelPosition": {
+				"X": 0.86666846,
+				"Y": 0.2695505,
+				"Z": 1.76133
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 8.082214,
+			"WorldPosition": {
+				"X": 465.1717,
+				"Y": -7.7206707,
+				"Z": -561.65765
+			},
+			"RelPosition": {
+				"X": -0.5082942,
+				"Y": -0.18701285,
+				"Z": 2.130874
+			}
+		}
+	]
+}
