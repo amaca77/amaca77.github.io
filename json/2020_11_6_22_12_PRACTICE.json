@@ -1,0 +1,3537 @@
+{
+	"TrackName": "chang",
+	"TrackConfig": "circuit_gp",
+	"Type": "PRACTICE",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Morales Pablo",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561199065072637",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Skin": "2020_69_VERNAY",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Ravetta Gustavo",
+				"Team": "",
+				"Nation": "OTH",
+				"Guid": "76561198314276661",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "aurelien_panis_21",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "frederic_vervisch_22",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Bruno Orlando",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198375525883",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "john_filippi_27",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "norbert_nagy_8",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "68_All_Inkl_Munnich_Motorsport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "18_Boutsen_Ginion_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "34-939-kozdon",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "34-920-kacper-kasztelan",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_lync_co_03",
+			"Skin": "Cyan 11",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "Yeyi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_lync_co_03",
+			"Skin": "Cyan 111",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "king_tony_23",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "07_DG_Sport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "03",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "34",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "Ayale Pablo",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198159090101",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "flyingsquad_gti_skin",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "Diego Solimeno",
+				"Team": "",
+				"Nation": "AME",
+				"Guid": "76561198014930532",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "Black_Rose_Racing_115",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					"76561198237457702"
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "33",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 102352,
+			"TotalTime": 1459405,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 102953,
+			"TotalTime": 7145305,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 104327,
+			"TotalTime": 5718061,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"BestLap": 105230,
+			"TotalTime": 4253226,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"BestLap": 107584,
+			"TotalTime": 7180429,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 108082,
+			"TotalTime": 2998689,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bruno Orlando",
+			"DriverGuid": "76561198375525883",
+			"CarId": 3,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ravetta Gustavo",
+			"DriverGuid": "76561198314276661",
+			"CarId": 1,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 6,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 11,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 5,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 14,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 9,
+			"CarModel": "du_wtcr_lync_co_03",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 7,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 17,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 21969319,
+			"LapTime": 160030,
+			"Sectors": [
+				64716,
+				51646,
+				43668
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 21973336,
+			"LapTime": 164047,
+			"Sectors": [
+				77697,
+				38843,
+				47507
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22011994,
+			"LapTime": 202716,
+			"Sectors": [
+				119758,
+				40559,
+				42399
+			],
+			"Cuts": 6,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22030686,
+			"LapTime": 221413,
+			"Sectors": [
+				138420,
+				40301,
+				42692
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 22076155,
+			"LapTime": 106840,
+			"Sectors": [
+				28090,
+				37962,
+				40788
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22083261,
+			"LapTime": 109923,
+			"Sectors": [
+				28193,
+				38620,
+				43110
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22116437,
+			"LapTime": 104445,
+			"Sectors": [
+				27337,
+				37238,
+				39870
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22139281,
+			"LapTime": 108599,
+			"Sectors": [
+				28274,
+				39097,
+				41228
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 22181922,
+			"LapTime": 105764,
+			"Sectors": [
+				27815,
+				37449,
+				40500
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22192366,
+			"LapTime": 109102,
+			"Sectors": [
+				27562,
+				38003,
+				43537
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22220709,
+			"LapTime": 104274,
+			"Sectors": [
+				27135,
+				36665,
+				40474
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22246228,
+			"LapTime": 106949,
+			"Sectors": [
+				27700,
+				38511,
+				40738
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 22287471,
+			"LapTime": 105546,
+			"Sectors": [
+				27651,
+				37548,
+				40347
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22303149,
+			"LapTime": 110786,
+			"Sectors": [
+				27806,
+				37891,
+				45089
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22325302,
+			"LapTime": 104597,
+			"Sectors": [
+				27207,
+				36828,
+				40562
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22352744,
+			"LapTime": 106517,
+			"Sectors": [
+				27844,
+				37948,
+				40725
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22411195,
+			"LapTime": 108043,
+			"Sectors": [
+				27529,
+				38281,
+				42233
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22429424,
+			"LapTime": 104124,
+			"Sectors": [
+				27569,
+				36729,
+				39826
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22458717,
+			"LapTime": 105973,
+			"Sectors": [
+				27624,
+				37925,
+				40424
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22519730,
+			"LapTime": 108536,
+			"Sectors": [
+				27964,
+				38173,
+				42399
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22533249,
+			"LapTime": 103828,
+			"Sectors": [
+				27180,
+				36517,
+				40131
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22564795,
+			"LapTime": 106071,
+			"Sectors": [
+				27707,
+				37719,
+				40645
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22627576,
+			"LapTime": 107841,
+			"Sectors": [
+				27921,
+				37534,
+				42386
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22636483,
+			"LapTime": 103236,
+			"Sectors": [
+				27348,
+				36333,
+				39555
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22682002,
+			"LapTime": 117215,
+			"Sectors": [
+				31076,
+				43623,
+				42516
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 22732232,
+			"LapTime": 444770,
+			"Sectors": [
+				362654,
+				41697,
+				40419
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22788031,
+			"LapTime": 106031,
+			"Sectors": [
+				27623,
+				37881,
+				40527
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 22837625,
+			"LapTime": 105392,
+			"Sectors": [
+				27790,
+				36873,
+				40729
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22843753,
+			"LapTime": 216180,
+			"Sectors": [
+				135702,
+				38488,
+				41990
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22858008,
+			"LapTime": 221530,
+			"Sectors": [
+				144112,
+				37129,
+				40289
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 22893833,
+			"LapTime": 105798,
+			"Sectors": [
+				27511,
+				37579,
+				40708
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 22957706,
+			"LapTime": 120085,
+			"Sectors": [
+				31962,
+				39969,
+				48154
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 22960701,
+			"LapTime": 102696,
+			"Sectors": [
+				26965,
+				36252,
+				39479
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 23004345,
+			"LapTime": 110519,
+			"Sectors": [
+				28062,
+				39240,
+				43217
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 23063398,
+			"LapTime": 102699,
+			"Sectors": [
+				26928,
+				36557,
+				39214
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23065616,
+			"LapTime": 107911,
+			"Sectors": [
+				29269,
+				38385,
+				40257
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 23116821,
+			"LapTime": 112476,
+			"Sectors": [
+				27911,
+				38610,
+				45955
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 23165748,
+			"LapTime": 102352,
+			"Sectors": [
+				26954,
+				36297,
+				39101
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23171269,
+			"LapTime": 105652,
+			"Sectors": [
+				27825,
+				37539,
+				40288
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ayale Pablo",
+			"DriverGuid": "76561198159090101",
+			"CarId": 15,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 23268666,
+			"LapTime": 102921,
+			"Sectors": [
+				26988,
+				36594,
+				39339
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23276913,
+			"LapTime": 105647,
+			"Sectors": [
+				27834,
+				37584,
+				40229
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23382114,
+			"LapTime": 105203,
+			"Sectors": [
+				27565,
+				37237,
+				40401
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23487034,
+			"LapTime": 104920,
+			"Sectors": [
+				27668,
+				37233,
+				40019
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 23575715,
+			"LapTime": 458891,
+			"Sectors": [
+				372982,
+				41674,
+				44235
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23592084,
+			"LapTime": 105035,
+			"Sectors": [
+				27717,
+				37430,
+				39888
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 23688591,
+			"LapTime": 112880,
+			"Sectors": [
+				29747,
+				41716,
+				41417
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23696599,
+			"LapTime": 104528,
+			"Sectors": [
+				27484,
+				37255,
+				39789
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 23795968,
+			"LapTime": 107373,
+			"Sectors": [
+				27795,
+				37845,
+				41733
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23816549,
+			"LapTime": 119955,
+			"Sectors": [
+				36803,
+				42769,
+				40383
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 23857378,
+			"LapTime": 613333,
+			"Sectors": [
+				531073,
+				38830,
+				43430
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 23902523,
+			"LapTime": 106560,
+			"Sectors": [
+				27918,
+				37791,
+				40851
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 23922996,
+			"LapTime": 106443,
+			"Sectors": [
+				28052,
+				37774,
+				40617
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 23966800,
+			"LapTime": 109423,
+			"Sectors": [
+				28045,
+				37894,
+				43484
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 24008610,
+			"LapTime": 106083,
+			"Sectors": [
+				27648,
+				37714,
+				40721
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 24027681,
+			"LapTime": 104688,
+			"Sectors": [
+				27868,
+				37049,
+				39771
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 24123727,
+			"LapTime": 115123,
+			"Sectors": [
+				32516,
+				41108,
+				41499
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 24229388,
+			"LapTime": 105657,
+			"Sectors": [
+				27609,
+				37313,
+				40735
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 24335754,
+			"LapTime": 106370,
+			"Sectors": [
+				27728,
+				37926,
+				40716
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 24440981,
+			"LapTime": 105230,
+			"Sectors": [
+				27408,
+				37597,
+				40225
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 24558361,
+			"LapTime": 117380,
+			"Sectors": [
+				30922,
+				42215,
+				44243
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 24694491,
+			"LapTime": 160466,
+			"Sectors": [
+				78242,
+				39524,
+				42700
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 24699878,
+			"LapTime": 733069,
+			"Sectors": [
+				652294,
+				38678,
+				42097
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 24804434,
+			"LapTime": 109937,
+			"Sectors": [
+				29720,
+				38511,
+				41706
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Solimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"Timestamp": 24807960,
+			"LapTime": 108082,
+			"Sectors": [
+				27843,
+				38384,
+				41855
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 24914778,
+			"LapTime": 110343,
+			"Sectors": [
+				28685,
+				39961,
+				41697
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 24979648,
+			"LapTime": 951966,
+			"Sectors": [
+				869643,
+				41939,
+				40384
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25023601,
+			"LapTime": 108819,
+			"Sectors": [
+				28214,
+				38881,
+				41724
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25086212,
+			"LapTime": 106568,
+			"Sectors": [
+				27728,
+				38530,
+				40310
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25192300,
+			"LapTime": 106086,
+			"Sectors": [
+				27686,
+				37764,
+				40636
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25205839,
+			"LapTime": 647476,
+			"Sectors": [
+				565481,
+				40100,
+				41895
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25296983,
+			"LapTime": 104674,
+			"Sectors": [
+				27481,
+				37269,
+				39924
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25311742,
+			"LapTime": 105908,
+			"Sectors": [
+				28067,
+				37638,
+				40203
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25397551,
+			"LapTime": 373940,
+			"Sectors": [
+				294817,
+				37679,
+				41444
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25401967,
+			"LapTime": 104991,
+			"Sectors": [
+				27649,
+				37301,
+				40041
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25418658,
+			"LapTime": 106918,
+			"Sectors": [
+				27925,
+				38227,
+				40766
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25504220,
+			"LapTime": 106666,
+			"Sectors": [
+				27884,
+				37414,
+				41368
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25506869,
+			"LapTime": 104904,
+			"Sectors": [
+				27620,
+				37233,
+				40051
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25524575,
+			"LapTime": 105917,
+			"Sectors": [
+				27752,
+				37872,
+				40293
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25610367,
+			"LapTime": 106143,
+			"Sectors": [
+				27833,
+				37287,
+				41023
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25611790,
+			"LapTime": 104921,
+			"Sectors": [
+				27715,
+				37503,
+				39703
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25632381,
+			"LapTime": 107769,
+			"Sectors": [
+				27898,
+				38281,
+				41590
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25716582,
+			"LapTime": 104798,
+			"Sectors": [
+				27547,
+				37318,
+				39933
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25716827,
+			"LapTime": 106456,
+			"Sectors": [
+				27882,
+				37381,
+				41193
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25740170,
+			"LapTime": 107828,
+			"Sectors": [
+				27818,
+				39069,
+				40941
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25821274,
+			"LapTime": 104691,
+			"Sectors": [
+				27556,
+				37341,
+				39794
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25822129,
+			"LapTime": 105297,
+			"Sectors": [
+				27532,
+				37530,
+				40235
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25846186,
+			"LapTime": 106013,
+			"Sectors": [
+				27790,
+				38237,
+				39986
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 25927021,
+			"LapTime": 105749,
+			"Sectors": [
+				28665,
+				37583,
+				39501
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 25927391,
+			"LapTime": 105263,
+			"Sectors": [
+				27485,
+				37089,
+				40689
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 25956652,
+			"LapTime": 110469,
+			"Sectors": [
+				30324,
+				39352,
+				40793
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26032626,
+			"LapTime": 105608,
+			"Sectors": [
+				27723,
+				38178,
+				39707
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26032991,
+			"LapTime": 105595,
+			"Sectors": [
+				26953,
+				37732,
+				40910
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 26062489,
+			"LapTime": 105839,
+			"Sectors": [
+				27683,
+				37846,
+				40310
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26141323,
+			"LapTime": 108330,
+			"Sectors": [
+				27496,
+				38407,
+				42427
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26142106,
+			"LapTime": 109479,
+			"Sectors": [
+				27570,
+				41985,
+				39924
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 26169406,
+			"LapTime": 106922,
+			"Sectors": [
+				27965,
+				38539,
+				40418
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26249477,
+			"LapTime": 107370,
+			"Sectors": [
+				28449,
+				37349,
+				41572
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 26275043,
+			"LapTime": 105636,
+			"Sectors": [
+				27579,
+				37395,
+				40662
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26366361,
+			"LapTime": 225031,
+			"Sectors": [
+				144625,
+				40311,
+				40095
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 26387950,
+			"LapTime": 112900,
+			"Sectors": [
+				27760,
+				44708,
+				40432
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26471979,
+			"LapTime": 105616,
+			"Sectors": [
+				27456,
+				37057,
+				41103
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26472760,
+			"LapTime": 223281,
+			"Sectors": [
+				145754,
+				37877,
+				39650
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 26496055,
+			"LapTime": 108113,
+			"Sectors": [
+				28036,
+				38151,
+				41926
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26577979,
+			"LapTime": 105219,
+			"Sectors": [
+				27967,
+				37296,
+				39956
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26579113,
+			"LapTime": 106692,
+			"Sectors": [
+				27991,
+				38178,
+				40523
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26682301,
+			"LapTime": 104327,
+			"Sectors": [
+				27432,
+				37223,
+				39672
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26683658,
+			"LapTime": 104980,
+			"Sectors": [
+				27216,
+				37520,
+				40244
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26789425,
+			"LapTime": 105764,
+			"Sectors": [
+				27546,
+				37440,
+				40778
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26789772,
+			"LapTime": 107472,
+			"Sectors": [
+				28200,
+				38515,
+				40757
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26894340,
+			"LapTime": 104915,
+			"Sectors": [
+				27295,
+				36999,
+				40621
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 26894670,
+			"LapTime": 104895,
+			"Sectors": [
+				27585,
+				37129,
+				40181
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 26999891,
+			"LapTime": 105546,
+			"Sectors": [
+				27583,
+				37206,
+				40757
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 27000434,
+			"LapTime": 105763,
+			"Sectors": [
+				27378,
+				37480,
+				40905
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27105026,
+			"LapTime": 105133,
+			"Sectors": [
+				27526,
+				37742,
+				39865
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 27105928,
+			"LapTime": 105490,
+			"Sectors": [
+				27357,
+				37907,
+				40226
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27209170,
+			"LapTime": 104136,
+			"Sectors": [
+				27460,
+				36806,
+				39870
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 27210721,
+			"LapTime": 104801,
+			"Sectors": [
+				27743,
+				37229,
+				39829
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 27316596,
+			"LapTime": 105878,
+			"Sectors": [
+				27885,
+				36999,
+				40994
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27316809,
+			"LapTime": 107640,
+			"Sectors": [
+				27724,
+				38605,
+				41311
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27422203,
+			"LapTime": 105390,
+			"Sectors": [
+				27535,
+				37669,
+				40186
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 27422427,
+			"LapTime": 105833,
+			"Sectors": [
+				27929,
+				37724,
+				40180
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diez Damian",
+			"DriverGuid": "76561198847837343",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"Timestamp": 27527326,
+			"LapTime": 104898,
+			"Sectors": [
+				27642,
+				37458,
+				39798
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27528860,
+			"LapTime": 106654,
+			"Sectors": [
+				27265,
+				37336,
+				42053
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27701719,
+			"LapTime": 172855,
+			"Sectors": [
+				94074,
+				38146,
+				40635
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 27805966,
+			"LapTime": 104239,
+			"Sectors": [
+				27294,
+				37300,
+				39645
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28033281,
+			"LapTime": 227310,
+			"Sectors": [
+				150670,
+				37089,
+				39551
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28137510,
+			"LapTime": 104228,
+			"Sectors": [
+				27422,
+				37103,
+				39703
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28148480,
+			"LapTime": 181419,
+			"Sectors": [
+				90122,
+				45613,
+				45684
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28241175,
+			"LapTime": 103664,
+			"Sectors": [
+				27273,
+				36742,
+				39649
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28258605,
+			"LapTime": 110128,
+			"Sectors": [
+				29988,
+				38412,
+				41728
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28344894,
+			"LapTime": 103718,
+			"Sectors": [
+				27263,
+				36792,
+				39663
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28369969,
+			"LapTime": 111367,
+			"Sectors": [
+				29112,
+				38677,
+				43578
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28449605,
+			"LapTime": 104708,
+			"Sectors": [
+				26976,
+				37696,
+				40036
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28479700,
+			"LapTime": 109734,
+			"Sectors": [
+				28292,
+				38872,
+				42570
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28553554,
+			"LapTime": 103944,
+			"Sectors": [
+				27209,
+				36756,
+				39979
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28589690,
+			"LapTime": 109993,
+			"Sectors": [
+				29151,
+				38025,
+				42817
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28696252,
+			"LapTime": 106565,
+			"Sectors": [
+				28059,
+				37196,
+				41310
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28748114,
+			"LapTime": 194553,
+			"Sectors": [
+				117810,
+				36936,
+				39807
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28851612,
+			"LapTime": 103499,
+			"Sectors": [
+				27188,
+				36869,
+				39442
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28882223,
+			"LapTime": 185978,
+			"Sectors": [
+				106225,
+				37831,
+				41922
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Esteban",
+			"DriverGuid": "76561198408993321",
+			"CarId": 13,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 28954568,
+			"LapTime": 102953,
+			"Sectors": [
+				26976,
+				36602,
+				39375
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Morales Pablo",
+			"DriverGuid": "76561199065072637",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 28989805,
+			"LapTime": 107584,
+			"Sectors": [
+				27929,
+				37657,
+				41998
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 45.023827,
+			"WorldPosition": {
+				"X": -562.8197,
+				"Y": 7.4031763,
+				"Z": 316.37125
+			},
+			"RelPosition": {
+				"X": 0.75915974,
+				"Y": -0.3650175,
+				"Z": 1.9292189
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 8.903557,
+			"WorldPosition": {
+				"X": 130.89171,
+				"Y": 5.8045225,
+				"Z": 291.96725
+			},
+			"RelPosition": {
+				"X": -0.81426305,
+				"Y": 0.2621734,
+				"Z": -2.4842556
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 7.557706,
+			"WorldPosition": {
+				"X": 130.43213,
+				"Y": 5.792797,
+				"Z": 291.71957
+			},
+			"RelPosition": {
+				"X": 0.29585385,
+				"Y": 0.23011354,
+				"Z": 1.7730051
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 22.804296,
+			"WorldPosition": {
+				"X": -417.11264,
+				"Y": 7.3517995,
+				"Z": 162.32289
+			},
+			"RelPosition": {
+				"X": 0.92146665,
+				"Y": -0.37475002,
+				"Z": -0.9944649
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 19.347599,
+			"WorldPosition": {
+				"X": -417.0084,
+				"Y": 7.3531785,
+				"Z": 162.41612
+			},
+			"RelPosition": {
+				"X": -0.95713186,
+				"Y": -0.33866718,
+				"Z": 1.7375096
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 8.978426,
+			"WorldPosition": {
+				"X": 166.32985,
+				"Y": 6.2244077,
+				"Z": 294.58264
+			},
+			"RelPosition": {
+				"X": -0.809238,
+				"Y": 0.19506237,
+				"Z": -2.4684584
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 7.124795,
+			"WorldPosition": {
+				"X": 165.71832,
+				"Y": 6.2250156,
+				"Z": 294.7258
+			},
+			"RelPosition": {
+				"X": 0.17221409,
+				"Y": 0.23007491,
+				"Z": 1.7867639
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 14.269235,
+			"WorldPosition": {
+				"X": 190.84561,
+				"Y": 5.9219503,
+				"Z": 279.5223
+			},
+			"RelPosition": {
+				"X": -0.42428368,
+				"Y": -0.36191198,
+				"Z": -2.3433042
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 10.783341,
+			"WorldPosition": {
+				"X": 191.08524,
+				"Y": 5.9190617,
+				"Z": 280.08206
+			},
+			"RelPosition": {
+				"X": -0.00038039684,
+				"Y": -0.35971898,
+				"Z": 2.0018134
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 15.46698,
+			"WorldPosition": {
+				"X": 653.4892,
+				"Y": 0.73603976,
+				"Z": -5.01175
+			},
+			"RelPosition": {
+				"X": 0.99641335,
+				"Y": -0.2730426,
+				"Z": -0.75891846
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 21.204016,
+			"WorldPosition": {
+				"X": 653.54315,
+				"Y": 0.7925753,
+				"Z": -4.933491
+			},
+			"RelPosition": {
+				"X": -0.87763387,
+				"Y": -0.26428926,
+				"Z": 1.5800315
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 7.609454,
+			"WorldPosition": {
+				"X": -583.62494,
+				"Y": 7.1128473,
+				"Z": 276.3373
+			},
+			"RelPosition": {
+				"X": 0.06533855,
+				"Y": -0.35073334,
+				"Z": 1.8870691
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 5.520802,
+			"WorldPosition": {
+				"X": -583.60645,
+				"Y": 7.11039,
+				"Z": 276.5416
+			},
+			"RelPosition": {
+				"X": 0.2594866,
+				"Y": -0.3266336,
+				"Z": -2.4696422
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 4.152575,
+			"WorldPosition": {
+				"X": -431.64856,
+				"Y": 7.758758,
+				"Z": -59.617992
+			},
+			"RelPosition": {
+				"X": -0.7494783,
+				"Y": 0.038089715,
+				"Z": 1.6626171
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 3.7838933,
+			"WorldPosition": {
+				"X": -432.30444,
+				"Y": 7.7575755,
+				"Z": -58.18455
+			},
+			"RelPosition": {
+				"X": 0.80418074,
+				"Y": 0.055876635,
+				"Z": -2.5382347
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 8.242281,
+			"WorldPosition": {
+				"X": 545.13416,
+				"Y": 1.5752963,
+				"Z": 51.228573
+			},
+			"RelPosition": {
+				"X": -0.9220305,
+				"Y": -0.10865381,
+				"Z": 1.3256867
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Diaz Esteban",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 9.244383,
+			"WorldPosition": {
+				"X": 545.5993,
+				"Y": 1.5779539,
+				"Z": 51.31402
+			},
+			"RelPosition": {
+				"X": 1.02543,
+				"Y": -0.10064334,
+				"Z": -0.06562824
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Diez Damian",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 2.9445763,
+			"WorldPosition": {
+				"X": 95.810196,
+				"Y": 8.624309,
+				"Z": -106.29743
+			},
+			"RelPosition": {
+				"X": -0.9599377,
+				"Y": 0.9151634,
+				"Z": -2.613339
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "Morales Pablo",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561199065072637",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 14.8637705,
+			"WorldPosition": {
+				"X": -505.76093,
+				"Y": 7.4026465,
+				"Z": 78.41846
+			},
+			"RelPosition": {
+				"X": 0.8990765,
+				"Y": -0.34405077,
+				"Z": 1.5341327
+			}
+		}
+	]
+}

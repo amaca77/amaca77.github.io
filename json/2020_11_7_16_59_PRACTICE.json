@@ -1,0 +1,1393 @@
+{
+	"TrackName": "chang",
+	"TrackConfig": "circuit_gp",
+	"Type": "PRACTICE",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "BRUNO ORLANDO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198375525883",
+				"GuidsList": [
+					"76561198375525883"
+				]
+			},
+			"Model": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Skin": "31",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Javier Konig",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198383761601",
+				"GuidsList": [
+					"76561198383761601"
+				]
+			},
+			"Model": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Skin": "2020_69_VERNAY",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "SERGI JOSE",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561199063801927",
+				"GuidsList": [
+					"76561199063801927"
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "aurelien_panis_21",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "BLANCO DANIEL",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198303792773",
+				"GuidsList": [
+					"76561198303792773"
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "denis_dupont_20",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "CAPPONE FRANCO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198235142464",
+				"GuidsList": [
+					"76561198235142464"
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "frederic_vervisch_22",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "RAVETTA GUSTAVO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198314276661",
+				"GuidsList": [
+					"76561198314276661"
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "gordon_shedden_52",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "PEDEMONTE JORGE",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198024154671",
+				"GuidsList": [
+					"76561198024154671"
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "nathanael_berthon_23",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "DIEZ DAMIAN",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198847837343",
+				"GuidsList": [
+					"76561198847837343"
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "rene_rast_33",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "FERREIRA NANDO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198296334719",
+				"GuidsList": [
+					"76561198296334719"
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "68_All_Inkl_Munnich_Motorsport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "MASCALI YAMIL",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198028125025",
+				"GuidsList": [
+					"76561198028125025"
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "86_All_Inkl_Munnich_Motorsport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "GARROTE FACUNDO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198371545633",
+				"GuidsList": [
+					"76561198371545633"
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "18_Boutsen_Ginion_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "ALVAREZ MARCELO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198171090507",
+				"GuidsList": [
+					"76561198171090507"
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "09_Boutsen_Ginion_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "RAMOS DIEGO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198995463196",
+				"GuidsList": [
+					"76561198995463196"
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "5_BRC_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "BECKER CRISTIAN",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198842967454",
+				"GuidsList": [
+					"76561198842967454"
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "34-920-kacper-kasztelan",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "ROLDAN SERGIO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					"76561199093799125"
+				]
+			},
+			"Model": "du_wtcr_lync_co_03",
+			"Skin": "Cyan 11",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "GOMES CRULAS",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561199067850826",
+				"GuidsList": [
+					"76561199067850826"
+				]
+			},
+			"Model": "du_wtcr_lync_co_03",
+			"Skin": "Cyan 100",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "SAMANIEGO GUSTAVO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "70_DG_Sport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "ROSSI GUSTAVO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					"76561198075922386"
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "king_tony_23",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Name": "GALLART EDUARDO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "308tcr",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 19,
+			"Driver": {
+				"Name": "STABILE MARTIN",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561197999796150",
+				"GuidsList": [
+					"76561197999796150"
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "205_Camel_308",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 20,
+			"Driver": {
+				"Name": "NIN MARCELO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198229538084",
+				"GuidsList": [
+					"76561198229538084"
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "07_DG_Sport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 21,
+			"Driver": {
+				"Name": "SOLIMENO DIEGO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198014930532",
+				"GuidsList": [
+					"76561198014930532"
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "Black_Rose_Racing_115",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 22,
+			"Driver": {
+				"Name": "CALZON NICOLAS",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198841131813",
+				"GuidsList": [
+					"76561198841131813"
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "12_Loeb_Team",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 23,
+			"Driver": {
+				"Name": "BOILLAT PABLO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198000806975",
+				"GuidsList": [
+					"76561198000806975"
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "25_Loeb_Team",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 24,
+			"Driver": {
+				"Name": "FERNANDEZ MAXI",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "34-939-kozdon",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 25,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					"76561198114087821"
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "03",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 26,
+			"Driver": {
+				"Name": "DIAZ ESTEBAN",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198408993321",
+				"GuidsList": [
+					"76561198408993321"
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "83",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 27,
+			"Driver": {
+				"Name": "CALLEJO ALEJANDRO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					"76561198237457702"
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "33",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 28,
+			"Driver": {
+				"Name": "TOPA FRANCO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					"76561198081079944"
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "34",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 29,
+			"Driver": {
+				"Name": "MURACCIOLE MATIAS",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561199059352791",
+				"GuidsList": [
+					"76561199059352791"
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "john_filippi_27",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 30,
+			"Driver": {
+				"Name": "GUITTARD ANDRES",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					"76561198046834161"
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "norbert_nagy_8",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 31,
+			"Driver": {
+				"Name": "MORALES PABLO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "pepe_oriola_74",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 32,
+			"Driver": {
+				"Name": "ALZA ALBERTO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198063989560",
+				"GuidsList": [
+					"76561198063989560"
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "zsolt_szabo_66",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 33,
+			"Driver": {
+				"Name": "CARRILLO EDUARDO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198203260006",
+				"GuidsList": [
+					"76561198203260006"
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "11_YMR_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 34,
+			"Driver": {
+				"Name": "AYALE PABLO",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198159090101",
+				"GuidsList": [
+					"76561198159090101"
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "Black_Rose_Racing_115",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 35,
+			"Driver": {
+				"Name": "Moratinos Adrian",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198994084743",
+				"GuidsList": [
+					"76561198994084743"
+				]
+			},
+			"Model": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Skin": "55",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 103078,
+			"TotalTime": 3173664,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"BestLap": 108443,
+			"TotalTime": 3290091,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GALLART EDUARDO",
+			"DriverGuid": "",
+			"CarId": 18,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "BLANCO DANIEL",
+			"DriverGuid": "76561198303792773",
+			"CarId": 3,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "CAPPONE FRANCO",
+			"DriverGuid": "76561198235142464",
+			"CarId": 4,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "RAVETTA GUSTAVO",
+			"DriverGuid": "76561198314276661",
+			"CarId": 5,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "PEDEMONTE JORGE",
+			"DriverGuid": "76561198024154671",
+			"CarId": 6,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "DIEZ DAMIAN",
+			"DriverGuid": "76561198847837343",
+			"CarId": 7,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "FERREIRA NANDO",
+			"DriverGuid": "76561198296334719",
+			"CarId": 8,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "MASCALI YAMIL",
+			"DriverGuid": "76561198028125025",
+			"CarId": 9,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GARROTE FACUNDO",
+			"DriverGuid": "76561198371545633",
+			"CarId": 10,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ALVAREZ MARCELO",
+			"DriverGuid": "76561198171090507",
+			"CarId": 11,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "RAMOS DIEGO",
+			"DriverGuid": "76561198995463196",
+			"CarId": 12,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "BECKER CRISTIAN",
+			"DriverGuid": "76561198842967454",
+			"CarId": 13,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ROLDAN SERGIO",
+			"DriverGuid": "76561199093799125",
+			"CarId": 14,
+			"CarModel": "du_wtcr_lync_co_03",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GOMES CRULAS",
+			"DriverGuid": "76561199067850826",
+			"CarId": 15,
+			"CarModel": "du_wtcr_lync_co_03",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SAMANIEGO GUSTAVO",
+			"DriverGuid": "",
+			"CarId": 16,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ROSSI GUSTAVO",
+			"DriverGuid": "76561198075922386",
+			"CarId": 17,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SERGI JOSE",
+			"DriverGuid": "76561199063801927",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "STABILE MARTIN",
+			"DriverGuid": "76561197999796150",
+			"CarId": 19,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "NIN MARCELO",
+			"DriverGuid": "76561198229538084",
+			"CarId": 20,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SOLIMENO DIEGO",
+			"DriverGuid": "76561198014930532",
+			"CarId": 21,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "CALZON NICOLAS",
+			"DriverGuid": "76561198841131813",
+			"CarId": 22,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "BOILLAT PABLO",
+			"DriverGuid": "76561198000806975",
+			"CarId": 23,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "FERNANDEZ MAXI",
+			"DriverGuid": "",
+			"CarId": 24,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "BRUNO ORLANDO",
+			"DriverGuid": "76561198375525883",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "DIAZ ESTEBAN",
+			"DriverGuid": "76561198408993321",
+			"CarId": 26,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "CALLEJO ALEJANDRO",
+			"DriverGuid": "76561198237457702",
+			"CarId": 27,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TOPA FRANCO",
+			"DriverGuid": "76561198081079944",
+			"CarId": 28,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "MURACCIOLE MATIAS",
+			"DriverGuid": "76561199059352791",
+			"CarId": 29,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GUITTARD ANDRES",
+			"DriverGuid": "76561198046834161",
+			"CarId": 30,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "MORALES PABLO",
+			"DriverGuid": "",
+			"CarId": 31,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ALZA ALBERTO",
+			"DriverGuid": "76561198063989560",
+			"CarId": 32,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "CARRILLO EDUARDO",
+			"DriverGuid": "76561198203260006",
+			"CarId": 33,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "AYALE PABLO",
+			"DriverGuid": "76561198159090101",
+			"CarId": 34,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Moratinos Adrian",
+			"DriverGuid": "76561198994084743",
+			"CarId": 35,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1342898,
+			"LapTime": 144230,
+			"Sectors": [
+				63555,
+				38898,
+				41777
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1459011,
+			"LapTime": 116116,
+			"Sectors": [
+				28271,
+				37666,
+				50179
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1563323,
+			"LapTime": 103928,
+			"Sectors": [
+				27023,
+				37049,
+				39856
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1670560,
+			"LapTime": 107625,
+			"Sectors": [
+				29315,
+				37769,
+				40541
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1774237,
+			"LapTime": 103680,
+			"Sectors": [
+				26936,
+				36630,
+				40114
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1879377,
+			"LapTime": 105111,
+			"Sectors": [
+				26815,
+				37175,
+				41121
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 1983680,
+			"LapTime": 104337,
+			"Sectors": [
+				27234,
+				36899,
+				40204
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 2087014,
+			"LapTime": 103333,
+			"Sectors": [
+				27189,
+				36558,
+				39586
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 2553440,
+			"LapTime": 466296,
+			"Sectors": [
+				374433,
+				38871,
+				52992
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 2659252,
+			"LapTime": 105457,
+			"Sectors": [
+				28125,
+				37134,
+				40198
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 2762241,
+			"LapTime": 103078,
+			"Sectors": [
+				26807,
+				36698,
+				39573
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 2855077,
+			"LapTime": 167829,
+			"Sectors": [
+				83850,
+				41116,
+				42863
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 2865648,
+			"LapTime": 103820,
+			"Sectors": [
+				27185,
+				36558,
+				40077
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 2965078,
+			"LapTime": 110002,
+			"Sectors": [
+				28611,
+				39667,
+				41724
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 2969537,
+			"LapTime": 103890,
+			"Sectors": [
+				27075,
+				36792,
+				40023
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 3072445,
+			"LapTime": 102910,
+			"Sectors": [
+				26784,
+				36863,
+				39263
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 3075562,
+			"LapTime": 110485,
+			"Sectors": [
+				28306,
+				40423,
+				41756
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 3175849,
+			"LapTime": 103402,
+			"Sectors": [
+				26717,
+				36882,
+				39803
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 3183837,
+			"LapTime": 108275,
+			"Sectors": [
+				28099,
+				38853,
+				41323
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diaz Du",
+			"DriverGuid": "76561198114087821",
+			"CarId": 25,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"Timestamp": 3279232,
+			"LapTime": 103388,
+			"Sectors": [
+				27005,
+				36878,
+				39505
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 3292278,
+			"LapTime": 108443,
+			"Sectors": [
+				27948,
+				38537,
+				41958
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Konig",
+			"DriverGuid": "76561198383761601",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Timestamp": 3397794,
+			"LapTime": 105518,
+			"Sectors": [
+				27488,
+				37706,
+				40324
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 1,
+			"Driver": {
+				"Name": "Javier Konig",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198383761601",
+				"GuidsList": [
+					"76561198383761601"
+				]
+			},
+			"OtherCarId": 25,
+			"OtherDriver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					"76561198114087821"
+				]
+			},
+			"ImpactSpeed": 18.374788,
+			"WorldPosition": {
+				"X": -270.70355,
+				"Y": 7.3448863,
+				"Z": -29.865767
+			},
+			"RelPosition": {
+				"X": -0.84038854,
+				"Y": -0.2905464,
+				"Z": -2.0724385
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 25,
+			"Driver": {
+				"Name": "Diaz Du",
+				"Team": "",
+				"Nation": "AEG",
+				"Guid": "76561198114087821",
+				"GuidsList": [
+					"76561198114087821"
+				]
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "Javier Konig",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198383761601",
+				"GuidsList": [
+					"76561198383761601"
+				]
+			},
+			"ImpactSpeed": 20.462172,
+			"WorldPosition": {
+				"X": -271.4697,
+				"Y": 7.352196,
+				"Z": -29.35662
+			},
+			"RelPosition": {
+				"X": 0.8758613,
+				"Y": -0.32304108,
+				"Z": 1.599658
+			}
+		}
+	]
+}

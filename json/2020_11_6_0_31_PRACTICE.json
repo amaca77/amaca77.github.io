@@ -1,0 +1,3176 @@
+{
+	"TrackName": "chang",
+	"TrackConfig": "circuit_gp",
+	"Type": "PRACTICE",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Yamil Mascali",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198028125025",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Skin": "31",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Yeyi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"Skin": "2020_69_VERNAY",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Sergi Jose",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199063801927",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "aurelien_panis_21",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_audi_rs3_lms_tcr",
+			"Skin": "frederic_vervisch_22",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Muracciole Matias",
+				"Team": "",
+				"Nation": "JPN",
+				"Guid": "76561199059352791",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "john_filippi_27",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_cupra_tcr",
+			"Skin": "norbert_nagy_8",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "Callejo Alejandro",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198237457702",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "68_All_Inkl_Munnich_Motorsport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "Yamil Mascali",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198028125025",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_honda_civic_type_r_fk7",
+			"Skin": "18_Boutsen_Ginion_Racing",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Ramos Diego",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198995463196",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "34-939-kozdon",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_hyundai_i30_n",
+			"Skin": "34-920-kacper-kasztelan",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "Yeyi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_lync_co_03",
+			"Skin": "Cyan 11",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_lync_co_03",
+			"Skin": "Cyan 111",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Rossi gustavo",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "king_tony_23",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_peugeot_308_gti",
+			"Skin": "07_DG_Sport",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Topa Franco",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198081079944",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "03",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_renault_megane_rs",
+			"Skin": "34",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "diegosolimeno",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198014930532",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "flyingsquad_gti_skin",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "Boillat Pablo",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198000806975",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "du_wtcr_volkswagen_golf_gti",
+			"Skin": "Black_Rose_Racing_115",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 101913,
+			"TotalTime": 6270423,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 103275,
+			"TotalTime": 5661171,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 103448,
+			"TotalTime": 6286837,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 104434,
+			"TotalTime": 886226,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"BestLap": 107403,
+			"TotalTime": 3361791,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 9,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Callejo Alejandro",
+			"DriverGuid": "76561198237457702",
+			"CarId": 6,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Sergi Jose",
+			"DriverGuid": "76561199063801927",
+			"CarId": 2,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 3,
+			"CarModel": "du_wtcr_audi_rs3_lms_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 0,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 1,
+			"CarModel": "du_wtcr_alfa_romeo_giulietta_veloce",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 11,
+			"CarModel": "du_wtcr_lync_co_03",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 13,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Topa Franco",
+			"DriverGuid": "76561198081079944",
+			"CarId": 14,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 15,
+			"CarModel": "du_wtcr_renault_megane_rs",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "diegosolimeno",
+			"DriverGuid": "76561198014930532",
+			"CarId": 16,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Boillat Pablo",
+			"DriverGuid": "76561198000806975",
+			"CarId": 17,
+			"CarModel": "du_wtcr_volkswagen_golf_gti",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 74669756,
+			"LapTime": 142936,
+			"Sectors": [
+				60221,
+				40743,
+				41972
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 74670019,
+			"LapTime": 143187,
+			"Sectors": [
+				59819,
+				42651,
+				40717
+			],
+			"Cuts": 6,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74675473,
+			"LapTime": 148659,
+			"Sectors": [
+				70637,
+				37719,
+				40303
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 74777135,
+			"LapTime": 107113,
+			"Sectors": [
+				28656,
+				37426,
+				41031
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74778258,
+			"LapTime": 142791,
+			"Sectors": [
+				64756,
+				38475,
+				39560
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74781039,
+			"LapTime": 105565,
+			"Sectors": [
+				27459,
+				37431,
+				40675
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 74781814,
+			"LapTime": 112073,
+			"Sectors": [
+				30263,
+				39528,
+				42282
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 74882448,
+			"LapTime": 105310,
+			"Sectors": [
+				28027,
+				37039,
+				40244
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74882923,
+			"LapTime": 104665,
+			"Sectors": [
+				27413,
+				37161,
+				40091
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 74889854,
+			"LapTime": 108030,
+			"Sectors": [
+				28451,
+				38048,
+				41531
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74893494,
+			"LapTime": 112456,
+			"Sectors": [
+				27311,
+				37269,
+				47876
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74987727,
+			"LapTime": 104801,
+			"Sectors": [
+				27195,
+				36949,
+				40657
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 74988426,
+			"LapTime": 105972,
+			"Sectors": [
+				28887,
+				37030,
+				40055
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 74999328,
+			"LapTime": 105827,
+			"Sectors": [
+				27330,
+				37268,
+				41229
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75001521,
+			"LapTime": 111680,
+			"Sectors": [
+				28746,
+				39708,
+				43226
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75091872,
+			"LapTime": 104128,
+			"Sectors": [
+				27376,
+				37170,
+				39582
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 75093251,
+			"LapTime": 104822,
+			"Sectors": [
+				27557,
+				37319,
+				39946
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75104268,
+			"LapTime": 104947,
+			"Sectors": [
+				27191,
+				37472,
+				40284
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75109303,
+			"LapTime": 107764,
+			"Sectors": [
+				28091,
+				38431,
+				41242
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75196691,
+			"LapTime": 104847,
+			"Sectors": [
+				26875,
+				36553,
+				41419
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75209564,
+			"LapTime": 105296,
+			"Sectors": [
+				27393,
+				37476,
+				40427
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75219268,
+			"LapTime": 109981,
+			"Sectors": [
+				27950,
+				38449,
+				43582
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75298976,
+			"LapTime": 102293,
+			"Sectors": [
+				26779,
+				36225,
+				39289
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 75308586,
+			"LapTime": 215327,
+			"Sectors": [
+				137635,
+				37804,
+				39888
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75315015,
+			"LapTime": 105455,
+			"Sectors": [
+				27228,
+				37089,
+				41138
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75327015,
+			"LapTime": 107753,
+			"Sectors": [
+				28117,
+				39141,
+				40495
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yamil Mascali",
+			"DriverGuid": "76561198028125025",
+			"CarId": 7,
+			"CarModel": "du_wtcr_honda_civic_type_r_fk7",
+			"Timestamp": 75413023,
+			"LapTime": 104434,
+			"Sectors": [
+				27502,
+				36724,
+				40208
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Muracciole Matias",
+			"DriverGuid": "76561199059352791",
+			"CarId": 4,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75419957,
+			"LapTime": 104934,
+			"Sectors": [
+				27246,
+				37268,
+				40420
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75456590,
+			"LapTime": 129575,
+			"Sectors": [
+				28757,
+				39839,
+				60979
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75546891,
+			"LapTime": 247916,
+			"Sectors": [
+				170422,
+				37067,
+				40427
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75606447,
+			"LapTime": 149857,
+			"Sectors": [
+				69689,
+				38278,
+				41890
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75650231,
+			"LapTime": 103349,
+			"Sectors": [
+				26940,
+				36670,
+				39739
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75714152,
+			"LapTime": 107708,
+			"Sectors": [
+				28716,
+				38429,
+				40563
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75752632,
+			"LapTime": 102405,
+			"Sectors": [
+				26697,
+				36611,
+				39097
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75823327,
+			"LapTime": 109177,
+			"Sectors": [
+				28856,
+				38723,
+				41598
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75855887,
+			"LapTime": 103256,
+			"Sectors": [
+				26820,
+				36612,
+				39824
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 75908773,
+			"LapTime": 190518,
+			"Sectors": [
+				101336,
+				43295,
+				45887
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 75930731,
+			"LapTime": 107403,
+			"Sectors": [
+				27991,
+				38799,
+				40613
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 75958741,
+			"LapTime": 102855,
+			"Sectors": [
+				26840,
+				36531,
+				39484
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76021513,
+			"LapTime": 112738,
+			"Sectors": [
+				30482,
+				39776,
+				42480
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 76038529,
+			"LapTime": 107792,
+			"Sectors": [
+				28178,
+				38917,
+				40697
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76062907,
+			"LapTime": 104166,
+			"Sectors": [
+				27013,
+				37013,
+				40140
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76129946,
+			"LapTime": 108433,
+			"Sectors": [
+				28518,
+				38276,
+				41639
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 76147231,
+			"LapTime": 108709,
+			"Sectors": [
+				29181,
+				39325,
+				40203
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76166153,
+			"LapTime": 103252,
+			"Sectors": [
+				27013,
+				36689,
+				39550
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76237732,
+			"LapTime": 107785,
+			"Sectors": [
+				27856,
+				38318,
+				41611
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 76255626,
+			"LapTime": 108397,
+			"Sectors": [
+				27842,
+				39538,
+				41017
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76269120,
+			"LapTime": 102970,
+			"Sectors": [
+				27023,
+				36617,
+				39330
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76345506,
+			"LapTime": 107232,
+			"Sectors": [
+				27753,
+				38115,
+				41364
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 76368736,
+			"LapTime": 113108,
+			"Sectors": [
+				28378,
+				38947,
+				45783
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76437957,
+			"LapTime": 168836,
+			"Sectors": [
+				92242,
+				36936,
+				39658
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76452097,
+			"LapTime": 107131,
+			"Sectors": [
+				27980,
+				38026,
+				41125
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76541140,
+			"LapTime": 103183,
+			"Sectors": [
+				27043,
+				36819,
+				39321
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76651826,
+			"LapTime": 110692,
+			"Sectors": [
+				26969,
+				36469,
+				47254
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76754826,
+			"LapTime": 103006,
+			"Sectors": [
+				27176,
+				36595,
+				39235
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 76805119,
+			"LapTime": 436386,
+			"Sectors": [
+				331652,
+				46692,
+				58042
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76818581,
+			"LapTime": 366477,
+			"Sectors": [
+				287479,
+				37791,
+				41207
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 76857539,
+			"LapTime": 102713,
+			"Sectors": [
+				26970,
+				36486,
+				39257
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 76915560,
+			"LapTime": 110443,
+			"Sectors": [
+				28917,
+				39303,
+				42223
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 76925041,
+			"LapTime": 106460,
+			"Sectors": [
+				28035,
+				37642,
+				40783
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77023791,
+			"LapTime": 108230,
+			"Sectors": [
+				28176,
+				39231,
+				40823
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77031467,
+			"LapTime": 105915,
+			"Sectors": [
+				27718,
+				37625,
+				40572
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77035028,
+			"LapTime": 177496,
+			"Sectors": [
+				101756,
+				36577,
+				39163
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77131700,
+			"LapTime": 107912,
+			"Sectors": [
+				27894,
+				38686,
+				41332
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77137461,
+			"LapTime": 102435,
+			"Sectors": [
+				26857,
+				36464,
+				39114
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77231262,
+			"LapTime": 200303,
+			"Sectors": [
+				121500,
+				38020,
+				40783
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77239569,
+			"LapTime": 107863,
+			"Sectors": [
+				27947,
+				38250,
+				41666
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77239866,
+			"LapTime": 102406,
+			"Sectors": [
+				26775,
+				36440,
+				39191
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77336547,
+			"LapTime": 105284,
+			"Sectors": [
+				27507,
+				37219,
+				40558
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77347025,
+			"LapTime": 107164,
+			"Sectors": [
+				28716,
+				37885,
+				40563
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77347913,
+			"LapTime": 108348,
+			"Sectors": [
+				29489,
+				37954,
+				40905
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77441347,
+			"LapTime": 104799,
+			"Sectors": [
+				27232,
+				37328,
+				40239
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77449343,
+			"LapTime": 102318,
+			"Sectors": [
+				26843,
+				36325,
+				39150
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77456143,
+			"LapTime": 108233,
+			"Sectors": [
+				28201,
+				39092,
+				40940
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77545875,
+			"LapTime": 104526,
+			"Sectors": [
+				27387,
+				37174,
+				39965
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77563658,
+			"LapTime": 107507,
+			"Sectors": [
+				27867,
+				38668,
+				40972
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77650391,
+			"LapTime": 104516,
+			"Sectors": [
+				27297,
+				37192,
+				40027
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77754924,
+			"LapTime": 104533,
+			"Sectors": [
+				27273,
+				37241,
+				40019
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77780001,
+			"LapTime": 216354,
+			"Sectors": [
+				136308,
+				38538,
+				41508
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77855486,
+			"LapTime": 406152,
+			"Sectors": [
+				316453,
+				36810,
+				52889
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77861603,
+			"LapTime": 105117,
+			"Sectors": [
+				27325,
+				37557,
+				40235
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77888586,
+			"LapTime": 108585,
+			"Sectors": [
+				28476,
+				39559,
+				40550
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 77959651,
+			"LapTime": 104161,
+			"Sectors": [
+				26941,
+				36211,
+				41009
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 77964583,
+			"LapTime": 104539,
+			"Sectors": [
+				27427,
+				37035,
+				40077
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 77995643,
+			"LapTime": 107055,
+			"Sectors": [
+				27931,
+				37813,
+				41311
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78069441,
+			"LapTime": 104856,
+			"Sectors": [
+				27491,
+				37053,
+				40312
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 78070839,
+			"LapTime": 111200,
+			"Sectors": [
+				26826,
+				45081,
+				39293
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Yeyi",
+			"DriverGuid": "76561199093799125",
+			"CarId": 10,
+			"CarModel": "du_wtcr_lync_co_03",
+			"Timestamp": 78104563,
+			"LapTime": 108922,
+			"Sectors": [
+				28138,
+				39064,
+				41720
+			],
+			"Cuts": 4,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78173732,
+			"LapTime": 104291,
+			"Sectors": [
+				27364,
+				37111,
+				39816
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 78174112,
+			"LapTime": 103273,
+			"Sectors": [
+				26705,
+				36567,
+				40001
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 78276796,
+			"LapTime": 102687,
+			"Sectors": [
+				26916,
+				36485,
+				39286
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78278266,
+			"LapTime": 104533,
+			"Sectors": [
+				27327,
+				37507,
+				39699
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 78379199,
+			"LapTime": 102406,
+			"Sectors": [
+				26775,
+				36355,
+				39276
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78382926,
+			"LapTime": 104658,
+			"Sectors": [
+				27194,
+				37521,
+				39943
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 78441339,
+			"LapTime": 148352,
+			"Sectors": [
+				71326,
+				37364,
+				39662
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78486961,
+			"LapTime": 104035,
+			"Sectors": [
+				27233,
+				37099,
+				39703
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 78545462,
+			"LapTime": 104124,
+			"Sectors": [
+				27336,
+				36787,
+				40001
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 78649359,
+			"LapTime": 103895,
+			"Sectors": [
+				27324,
+				36805,
+				39766
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78736160,
+			"LapTime": 248806,
+			"Sectors": [
+				171262,
+				37449,
+				40095
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 78753007,
+			"LapTime": 103651,
+			"Sectors": [
+				27277,
+				37116,
+				39258
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78841501,
+			"LapTime": 105729,
+			"Sectors": [
+				27356,
+				37224,
+				41149
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 78903773,
+			"LapTime": 150765,
+			"Sectors": [
+				74355,
+				36769,
+				39641
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 78945375,
+			"LapTime": 103873,
+			"Sectors": [
+				27234,
+				37115,
+				39524
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 78953476,
+			"LapTime": 574286,
+			"Sectors": [
+				498133,
+				36801,
+				39352
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79007265,
+			"LapTime": 103491,
+			"Sectors": [
+				27368,
+				36756,
+				39367
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79058562,
+			"LapTime": 105082,
+			"Sectors": [
+				26886,
+				37691,
+				40505
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79110501,
+			"LapTime": 103234,
+			"Sectors": [
+				27148,
+				36702,
+				39384
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79161018,
+			"LapTime": 102466,
+			"Sectors": [
+				26789,
+				36496,
+				39181
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79214057,
+			"LapTime": 103559,
+			"Sectors": [
+				27492,
+				36630,
+				39437
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79263394,
+			"LapTime": 102376,
+			"Sectors": [
+				26816,
+				36644,
+				38916
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79317538,
+			"LapTime": 103484,
+			"Sectors": [
+				27124,
+				36923,
+				39437
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79365666,
+			"LapTime": 102277,
+			"Sectors": [
+				26812,
+				36589,
+				38876
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 79462167,
+			"LapTime": 516785,
+			"Sectors": [
+				437766,
+				37944,
+				41075
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79468357,
+			"LapTime": 102691,
+			"Sectors": [
+				26798,
+				36451,
+				39442
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 79565812,
+			"LapTime": 103646,
+			"Sectors": [
+				27200,
+				36653,
+				39793
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79637183,
+			"LapTime": 319642,
+			"Sectors": [
+				243048,
+				37048,
+				39546
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 79670403,
+			"LapTime": 104591,
+			"Sectors": [
+				27488,
+				37076,
+				40027
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79718423,
+			"LapTime": 250053,
+			"Sectors": [
+				143614,
+				47619,
+				58820
+			],
+			"Cuts": 8,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79741013,
+			"LapTime": 103830,
+			"Sectors": [
+				27356,
+				36595,
+				39879
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 79774331,
+			"LapTime": 103926,
+			"Sectors": [
+				27623,
+				36887,
+				39416
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 79877752,
+			"LapTime": 103419,
+			"Sectors": [
+				27224,
+				36919,
+				39276
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79888336,
+			"LapTime": 147321,
+			"Sectors": [
+				69426,
+				37057,
+				40838
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 79941951,
+			"LapTime": 223555,
+			"Sectors": [
+				146785,
+				37246,
+				39524
+			],
+			"Cuts": 7,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 79981359,
+			"LapTime": 103607,
+			"Sectors": [
+				27153,
+				36810,
+				39644
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 79992154,
+			"LapTime": 103815,
+			"Sectors": [
+				27252,
+				36827,
+				39736
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 80047448,
+			"LapTime": 105485,
+			"Sectors": [
+				26826,
+				39104,
+				39555
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 80084684,
+			"LapTime": 103323,
+			"Sectors": [
+				26966,
+				37018,
+				39339
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 80096391,
+			"LapTime": 104228,
+			"Sectors": [
+				27616,
+				36918,
+				39694
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 80149742,
+			"LapTime": 102314,
+			"Sectors": [
+				26724,
+				36310,
+				39280
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rossi gustavo",
+			"DriverGuid": "76561198075922386",
+			"CarId": 12,
+			"CarModel": "du_wtcr_peugeot_308_gti",
+			"Timestamp": 80187961,
+			"LapTime": 103275,
+			"Sectors": [
+				27179,
+				36806,
+				39290
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 80372656,
+			"LapTime": 222915,
+			"Sectors": [
+				126848,
+				45266,
+				50801
+			],
+			"Cuts": 13,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 80399190,
+			"LapTime": 302808,
+			"Sectors": [
+				226488,
+				36782,
+				39538
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 80502669,
+			"LapTime": 103481,
+			"Sectors": [
+				27270,
+				36692,
+				39519
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 80593277,
+			"LapTime": 220621,
+			"Sectors": [
+				144990,
+				36706,
+				38925
+			],
+			"Cuts": 5,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 80606117,
+			"LapTime": 103448,
+			"Sectors": [
+				27331,
+				36887,
+				39230
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 80695183,
+			"LapTime": 101913,
+			"Sectors": [
+				26744,
+				36360,
+				38809
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 80710032,
+			"LapTime": 103916,
+			"Sectors": [
+				27376,
+				37013,
+				39527
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Guittard Andres",
+			"DriverGuid": "76561198046834161",
+			"CarId": 5,
+			"CarModel": "du_wtcr_cupra_tcr",
+			"Timestamp": 80797248,
+			"LapTime": 102068,
+			"Sectors": [
+				26820,
+				36360,
+				38888
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ramos Diego",
+			"DriverGuid": "76561198995463196",
+			"CarId": 8,
+			"CarModel": "du_wtcr_hyundai_i30_n",
+			"Timestamp": 80813630,
+			"LapTime": 103601,
+			"Sectors": [
+				27358,
+				36707,
+				39536
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "Yeyi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 16.44786,
+			"WorldPosition": {
+				"X": 310.93042,
+				"Y": 5.4036727,
+				"Z": 21.916979
+			},
+			"RelPosition": {
+				"X": 0.8971406,
+				"Y": 0.8382232,
+				"Z": -2.7462552
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Muracciole Matias",
+				"Team": "",
+				"Nation": "JPN",
+				"Guid": "76561199059352791",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 8.919656,
+			"WorldPosition": {
+				"X": 62.577427,
+				"Y": 7.9402885,
+				"Z": -144.16487
+			},
+			"RelPosition": {
+				"X": 1.0497639,
+				"Y": 0.10865367,
+				"Z": 0.7646067
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "Yeyi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 14.433319,
+			"WorldPosition": {
+				"X": -501.50525,
+				"Y": 8.572467,
+				"Z": 65.66612
+			},
+			"RelPosition": {
+				"X": -0.88936526,
+				"Y": 0.8382242,
+				"Z": -2.7462583
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "Yeyi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561199093799125",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 11.992502,
+			"WorldPosition": {
+				"X": -498.1309,
+				"Y": 7.8390646,
+				"Z": 58.781128
+			},
+			"RelPosition": {
+				"X": -0.93450713,
+				"Y": 0.08847517,
+				"Z": 1.1690446
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Rossi gustavo",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 4.8379216,
+			"WorldPosition": {
+				"X": 10.075735,
+				"Y": 7.6999626,
+				"Z": 51.26422
+			},
+			"RelPosition": {
+				"X": 0.75915706,
+				"Y": -0.3750171,
+				"Z": 1.8842217
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Rossi gustavo",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 8.902431,
+			"WorldPosition": {
+				"X": 135.72278,
+				"Y": 7.2004023,
+				"Z": 70.37272
+			},
+			"RelPosition": {
+				"X": -0.0000064373016,
+				"Y": -0.36480382,
+				"Z": -2.499596
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Rossi gustavo",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 5.674405,
+			"WorldPosition": {
+				"X": 136.45328,
+				"Y": 7.1967754,
+				"Z": 70.52417
+			},
+			"RelPosition": {
+				"X": 0.022449672,
+				"Y": -0.34002355,
+				"Z": 1.9528186
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Rossi gustavo",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 6.4776816,
+			"WorldPosition": {
+				"X": -222.56131,
+				"Y": 7.6270256,
+				"Z": -212.38737
+			},
+			"RelPosition": {
+				"X": -0.24385828,
+				"Y": -0.3647569,
+				"Z": -2.4727054
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Rossi gustavo",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198075922386",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 7.5191407,
+			"WorldPosition": {
+				"X": -221.66452,
+				"Y": 7.6408215,
+				"Z": -212.11584
+			},
+			"RelPosition": {
+				"X": 1.7881393e-7,
+				"Y": -0.37567317,
+				"Z": 1.9594147
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Guittard Andres",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046834161",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 100.209114,
+			"WorldPosition": {
+				"X": 739.1529,
+				"Y": 0.49855697,
+				"Z": 17.997572
+			},
+			"RelPosition": {
+				"X": 0.75917125,
+				"Y": -0.3750166,
+				"Z": 1.8842354
+			}
+		}
+	]
+}
